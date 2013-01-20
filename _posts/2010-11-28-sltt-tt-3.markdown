@@ -1,0 +1,17 @@
+---
+comments: false
+date: 2010-11-28 00:34:14
+layout: post
+slug: sltt-tt-3
+title: Lisp今昔物語
+wordpress_id: 707
+categories:
+- tech talk
+---
+
+Shibuya.lispテクニカルトーク第6回 (2010/11/27) 安村通晃さんによる
+「Lisp今昔物語」です。
+
+<iframe width="560" height="420" src="http://www.youtube.com/embed/VfSERUeUvog" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+発表資料:

@@ -1,0 +1,41 @@
+---
+comments: true
+date: 2010-03-20 23:19:20
+layout: post
+slug: sltt-5-tb
+title: '2010/3/20 Shibuya.lisp テクニカルトーク #5 開催!!'
+wordpress_id: 581
+categories:
+- tech talk
+---
+
+本日 3/20、Shibuya.lisp テクニカルトーク #5が無事開催されました!
+参加された皆様、ustreamを視聴して頂いた皆様、ありがとうございます。
+
+
+#### 謝辞:
+
+
+今回もECナビさんよりセミナールームを会場/懇親会会場としてご提供頂きました。
+素敵な会場をご提供頂きありがとうございます!
+- [ECナビ](http://ecnavi.co.jp/)
+
+また、今回もEY-Office 吉田さんよりドリンク/お菓子をご提供頂き、休憩中の参加者同士の交流も促進できました。
+ありがとうございます。
+- [EY-Office](http://www.ey-office.com/)
+
+このエントリーは、トラックバック用/まとめ用のエントリーです。
+本日のShibuya.lisp テクニカルトーク #5 感想ブログエントリ等を書かれる際には、こちらにトラックバック等を頂けると幸いです。
+
+
+#### トラックバックURL:
+
+
+http://shibuya.lisp-users.org/2010/03/20/sltt-5-tb/trackback/
+※トラックバックは承認制となっていますので、反映まで時間がかかることがあります。予めご了承下さい。
+
+また、こちらのエントリーにまとめ情報を追記して行く予定です。
+
+まとめ記事:
+emasakaさん: [「Shibuya.lispテクニカルトーク #5」観覧](http://emasaka.blog65.fc2.com/blog-entry-728.html)
+

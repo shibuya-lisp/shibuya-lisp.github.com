@@ -1,0 +1,17 @@
+---
+comments: false
+date: 2010-11-28 00:36:05
+layout: post
+slug: sltt-lt-2
+title: スキーマクラフトの紹介
+wordpress_id: 711
+categories:
+- tech talk
+---
+
+Shibuya.lispテクニカルトーク第6回 (2010/11/27) 衣川憲治/k_kinukawaさんによる
+「スキーマクラフトの紹介」です。
+
+<iframe width="560" height="420" src="http://www.youtube.com/embed/ypbCLB1tNtg" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+発表資料:

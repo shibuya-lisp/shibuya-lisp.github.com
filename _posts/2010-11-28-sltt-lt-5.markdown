@@ -1,0 +1,22 @@
+---
+comments: false
+date: 2010-11-28 00:37:59
+layout: post
+slug: sltt-lt-5
+title: 多値で簡単パーサーコンビネータ
+wordpress_id: 718
+categories:
+- tech talk
+---
+
+Shibuya.lispテクニカルトーク第6回 (2010/11/27) 鹿野桂一郎さんによる
+「多値で簡単パーサーコンビネータ」です。
+
+<iframe width="560" height="420" src="http://www.youtube.com/embed/aIJDzfCRqKk" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+発表資料:
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/5955469" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" > </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/k16shikano/shibuyalisp-tt6lt" title="多値で簡単パーサーコンビネーター" target="_blank">多値で簡単パーサーコンビネーター</a> </strong> from <strong><a href="http://www.slideshare.net/k16shikano" target="_blank">Keiichiro Shikano</a></strong> </div>
+
+動作コード:
+[k16shikano/tinypeg](https://github.com/k16shikano/tinypeg)

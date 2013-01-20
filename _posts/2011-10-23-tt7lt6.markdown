@@ -1,0 +1,17 @@
+---
+comments: true
+date: 2011-10-23 21:30:05
+layout: post
+slug: tt7lt6
+title: The Lifeboat PERSPECTIVE 1989 AUGUST 特集/LISPミニツール」の紹介
+wordpress_id: 802
+categories:
+- tech talk
+---
+
+Shibuya.lispテクニカルトーク第7回 (2011/10/22) 田中 洸一(株式会社万葉)さんによる
+「The Lifeboat PERSPECTIVE 1989 AUGUST 特集/LISPミニツール」の紹介」です。
+
+<iframe width="560" height="420" src="http://www.youtube.com/embed/KJjLxYFJtfU" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+資料:

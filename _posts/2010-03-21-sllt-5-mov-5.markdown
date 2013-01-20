@@ -1,0 +1,20 @@
+---
+comments: false
+date: 2010-03-21 22:55:18
+layout: post
+slug: sllt-5-mov-5
+title: 『プログラミングClojure』の編集制作におけるLisp/Scheme
+wordpress_id: 618
+categories:
+- tech talk
+---
+
+Shibuya.lispテクニカルトーク第5回 (2010/03/20) 森田 尚さんによる「『プログラミングClojure』の編集制作にお けるLisp/Scheme」です。  
+
+<iframe width="560" height="420" src="http://www.youtube.com/embed/NH4mtQLI6Ws" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+[ニコニコ動画版](http://www.nicovideo.jp/watch/sm10103486)
+
+発表資料:
+[『プログラミングClojure』の編集制作におけるLisp/Scheme](http://hisashim.org/2010/03/20/shcloj-ja-prod.html)
+

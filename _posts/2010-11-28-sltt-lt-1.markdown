@@ -1,0 +1,17 @@
+---
+comments: false
+date: 2010-11-28 00:35:15
+layout: post
+slug: sltt-lt-1
+title: ○○からはじめるScheme
+wordpress_id: 709
+categories:
+- tech talk
+---
+
+Shibuya.lispテクニカルトーク第6回 (2010/11/27) HAYASHI Kentaro(kenhys)さんによる
+「○○からはじめるScheme」です。
+
+発表資料:
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/6359502" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" > </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/kenhys/shibuyalisp6lt" title="Shibuyalisp6lt" target="_blank">Shibuyalisp6lt</a> </strong> from <strong><a href="http://www.slideshare.net/kenhys" target="_blank">kenhys</a></strong> </div>

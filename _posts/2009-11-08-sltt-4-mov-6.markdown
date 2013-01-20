@@ -1,0 +1,16 @@
+---
+comments: true
+date: 2009-11-08 19:00:33
+layout: post
+slug: sltt-4-mov-6
+title: 'TT#4 第三部: LT 3次元幾何モデルライブラリ komainu on CL'
+wordpress_id: 520
+categories:
+- tech talk
+---
+
+<iframe width="560" height="420" src="http://www.youtube.com/embed/qJUi_yrS4hY" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+Shibuya.lispテクニカルトーク第4回 (2009/11/07) garaemonさんによる「3次元幾何モデルライブラリkomainu on CL」です。
+
+[ニコニコ動画](http://www.nicovideo.jp/watch/sm8746280)

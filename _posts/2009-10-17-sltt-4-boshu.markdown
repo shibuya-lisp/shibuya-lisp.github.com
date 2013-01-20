@@ -1,0 +1,26 @@
+---
+comments: false
+date: 2009-10-17 20:59:08
+layout: post
+slug: sltt-4-boshu
+title: 'Shibuya.lisp テクニカルトーク #4 観覧者募集開始!'
+wordpress_id: 458
+categories:
+- tech talk
+---
+
+前回のエントリにて予告しておりました観覧者の募集ですが、下記フォームよりお申し込み下さい。
+※スタッフと出演者の方は申し込みの必要はありません。
+
+
+## - [テクニカルトーク#4参加お申し込みフォーム](http://tips.lisp-users.org/talk/04/)
+
+
+今回の懇親会の申し込みはATNDを利用しております。下記フォームよりお申し込み下さい。
+
+
+## - [Shibuya.lisp テクニカルトーク#4　懇親会](http://atnd.org/events/1684)
+
+
+皆様のご参加お待ちしております!
+

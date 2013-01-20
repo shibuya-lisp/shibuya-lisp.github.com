@@ -1,0 +1,41 @@
+---
+comments: true
+date: 2008-10-26 23:09:22
+layout: post
+slug: sltt1-mov
+title: 'Shibuya.lisp テクニカルトーク #1 ニコニコ動画にて動画公開!'
+wordpress_id: 238
+categories:
+- tech talk
+---
+
+先日10/18(土)に開催されましたShibuya.lisp テクニカルトーク #1ですが、ニコニコ動画にて発表の動画を公開しました。
+下記のリンクよりご覧下さい。
+※ニコニコ動画視聴にはアカウントが必要です。
+
+**開会のことば:**
+ひげぽんさん: [Why Lisp?](http://www.nicovideo.jp/watch/sm5003587)
+
+**テクニカル・トーク:**
+mitamex4uさん: [50万行オーダーのプロジェクトを俺Lispで書く 1|](http://www.nicovideo.jp/watch/sm5048241)[2|](http://www.nicovideo.jp/watch/sm5048481)[3 ](http://www.nicovideo.jp/watch/sm5048662)
+
+NANRIさん: [HyperSpec ひとめぐり 1|](http://www.nicovideo.jp/watch/sm5049067)[2](http://www.nicovideo.jp/watch/sm5049285)
+
+藤田善勝さん: [YpsilonVMの開発 1|](http://www.nicovideo.jp/watch/sm5049451)[2|](http://www.nicovideo.jp/watch/sm5049800)[3|](http://www.nicovideo.jp/watch/sm5049743)[4|](http://www.nicovideo.jp/watch/sm5049891)[5|](http://www.nicovideo.jp/watch/sm5049651)[6](http://www.nicovideo.jp/watch/sm5045940)
+
+**ライトニングトーク:**
+yshigeruさん: [世界のナベアツにGaucheで挑戦する](http://www.nicovideo.jp/watch/sm5046245)
+
+masa.edwさん: [はじめてのScheme](http://www.nicovideo.jp/watch/sm5046135)
+
+odaさん: [マイナーRPGはlispで](http://www.nicovideo.jp/watch/sm5046366)
+
+oskimuraさん: [継続小説](http://www.nicovideo.jp/watch/sm5046463)
+
+小黒さん: [Gaucheのプログラムをもっと速くする方法](http://www.nicovideo.jp/watch/sm5008319)
+
+mokeheheさん: [CL/Schemeの組み込み利用](http://www.nicovideo.jp/watch/sm5046953)
+
+momo_devさん: [初心者がgaucheでロボット制御](http://www.nicovideo.jp/watch/sm5047097),[その2 ロボットについて](http://www.nicovideo.jp/watch/sm5046588)
+
+ココサブさん: [Reading Gaucheしてみませんか](http://www.nicovideo.jp/watch/sm5046831)

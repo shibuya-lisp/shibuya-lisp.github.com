@@ -1,0 +1,15 @@
+---
+comments: true
+date: 2009-11-08 18:00:15
+layout: post
+slug: sltt-4-mov-2
+title: 'TT#4 第二部: テクニカルトーク開幕挨拶'
+wordpress_id: 508
+categories:
+- tech talk
+---
+
+<iframe width="560" height="420" src="http://www.youtube.com/embed/VP50MmGh93c" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+Shibuya.lispテクニカルトーク第4回 (2009/11/07) garaemonさんによる「テクニカルトーク開幕挨拶」です。
+[ニコニコ動画](http://www.nicovideo.jp/watch/sm8746731)

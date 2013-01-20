@@ -1,0 +1,18 @@
+---
+comments: false
+date: 2011-10-23 21:34:38
+layout: post
+slug: tt7lt9
+title: 深町英太郎はどこへ向かっているのか
+wordpress_id: 810
+categories:
+- tech talk
+---
+
+Shibuya.lispテクニカルトーク第7回 (2011/10/22) 深町英太郎(株式会社はてな)さんによる
+「深町英太郎はどこへ向かっているのか」です。
+
+<iframe width="560" height="420" src="http://www.youtube.com/embed/5AZF2CEE8C4" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+資料:
+[深町英太郎はどこへ向かっているのか](http://www.slideshare.net/fukamachi/ss-9837849)

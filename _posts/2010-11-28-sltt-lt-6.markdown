@@ -1,0 +1,19 @@
+---
+comments: false
+date: 2010-11-28 00:38:40
+layout: post
+slug: sltt-lt-6
+title: ClojureとEPUBで「普通のやつらの上を行く」方法
+wordpress_id: 720
+categories:
+- tech talk
+---
+
+Shibuya.lispテクニカルトーク第6回 (2010/11/27) deltamさんによる
+「ClojureとEPUBで「普通のやつらの上を行く」方法」です。
+
+<iframe width="560" height="420" src="http://www.youtube.com/embed/sr9z5SNOHK0" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+発表資料:
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/5931636" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px"> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/deltam/shibuyalisp6-lt-deltam-5931636" title="ClojureとEPUBで「普通のやつらの上を行く」方法" target="_blank">ClojureとEPUBで「普通のやつらの上を行く」方法</a> </strong> from <strong><a href="http://www.slideshare.net/deltam" target="_blank">del tam</a></strong> </div>

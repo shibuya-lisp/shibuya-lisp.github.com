@@ -1,0 +1,19 @@
+---
+comments: true
+date: 2009-11-08 17:50:40
+layout: post
+slug: sltt-4-mov-1
+title: 'TT#4 第一部: ふつうのLisp入門'
+wordpress_id: 504
+categories:
+- tech talk
+---
+
+Shibuya.lispテクニカルトーク第4回 (2009/11/07)
+吉田裕美さんによるLisp入門セッション「ふつうのLisp入門」です。(YouTube 全8動画)
+
+<iframe width="560" height="420" src="http://www.youtube.com/embed/z8NWvztj-GQ" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+[ニコニコ動画版(全3動画)](http://www.nicovideo.jp/watch/sm8747093)
+[発表スライド](http://ey-office.net/redmine/attachments/31/LispPrimer.pdf)
+[サポートページ](http://ey-office.net/redmine/wiki/gauche/ShibuyaLisp4)

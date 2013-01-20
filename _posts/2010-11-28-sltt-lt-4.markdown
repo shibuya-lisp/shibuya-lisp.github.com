@@ -1,0 +1,19 @@
+---
+comments: false
+date: 2010-11-28 00:37:19
+layout: post
+slug: sltt-lt-4
+title: Lispで仕事をするために
+wordpress_id: 716
+categories:
+- tech talk
+---
+
+Shibuya.lispテクニカルトーク第6回 (2010/11/27) 深町英太郎さんによる
+「Lispで仕事をするために」です。
+
+<iframe width="560" height="420" src="http://www.youtube.com/embed/uwQGPYjzr1E" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+発表資料:
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/5932274" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" > </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/fukamachi/lisp" title="Lispで仕事をするために" target="_blank">Lispで仕事をするために</a> </strong> from <strong><a href="http://www.slideshare.net/fukamachi" target="_blank">fukamachi</a></strong> </div>

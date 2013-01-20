@@ -1,0 +1,125 @@
+---
+comments: false
+date: 2010-03-13 21:29:18
+layout: post
+slug: sltt5-lter
+title: Shibuya.lisp TT#5 ライトニングトークの発表内容決定!
+wordpress_id: 568
+categories:
+- tech talk
+---
+
+Shibuya.lisp テクニカルトーク#5のライトニングトークの発表順とその内容が決まりましたのでお知らせ致します。
+
+
+
+  
+    
+
+
+      
+発表順
+
+      
+発表テーマ
+
+      
+お名前 (所属)
+
+    
+    
+
+
+      
+1
+
+      
+1+1はなぜ2になるの？ ～Gaucheによる証明～
+
+      
+アラスカ猫
+
+    
+    
+
+
+      
+2
+
+      
+世界で一番短い（かもしれない）オブジェクト指向フレームワーク「nekoduck2」
+
+      
+yadokarielectric(素人くさいSICP読書会)
+
+    
+    
+
+
+      
+3
+
+      
+自分をClojure化する方法
+
+      
+深町英太郎
+
+    
+    
+
+
+      
+4
+
+      
+Clojure+Leiningenで3分Hadoop
+
+      
+making
+
+    
+    
+
+
+      
+5
+
+      
+『プログラミングClojure』の編集制作におけるLisp/Scheme
+
+      
+森田尚(株式会社オーム社)
+
+    
+    
+
+
+      
+6
+
+      
+cadr ドキュメント和訳とか
+
+      
+たけおか(アックス)
+
+    
+    
+
+
+      
+7
+
+      
+LispでクールなMac GUIプログラミング (Nu programming language)
+
+      
+Yuumi3(Gaucheファンクラブ)
+
+    
+
+  
+
+テクニカルトークにも勝るとも劣らない興味深い内容ばかりです。乞うご期待!
+

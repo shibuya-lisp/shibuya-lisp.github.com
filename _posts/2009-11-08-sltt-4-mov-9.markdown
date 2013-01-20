@@ -1,0 +1,21 @@
+---
+comments: true
+date: 2009-11-08 19:20:14
+layout: post
+slug: sltt-4-mov-9
+title: 'TT#4 第三部: LT さあ家に帰ったらSchemeのコード書いてみよう'
+wordpress_id: 526
+categories:
+- tech talk
+---
+
+Shibuya.lispテクニカルトーク第4回 (2009/11/07) ひげぽんさんによる「さあ家に帰ったらSchemeのコード書いてみよう」です。
+
+<iframe width="560" height="420" src="http://www.youtube.com/embed/IaNY7ELsj0g" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+[ニコニコ動画版](http://www.nicovideo.jp/watch/sm8746533)
+
+発表スライド:
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/2448627" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" > </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/higepon/shibuyalisp20091107" title="Shibuya.Lisp20091107" target="_blank">Shibuya.Lisp20091107</a> </strong> from <strong><a href="http://www.slideshare.net/higepon" target="_blank">Taro Higepon</a></strong> </div>
+

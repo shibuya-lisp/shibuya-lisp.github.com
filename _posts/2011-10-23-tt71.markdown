@@ -1,0 +1,18 @@
+---
+comments: true
+date: 2011-10-23 13:30:12
+layout: post
+slug: tt71
+title: 括弧への異常な愛情 または私は如何にして心配するのを止めてCommon Lispを愛するようになったか
+wordpress_id: 783
+categories:
+- tech talk
+---
+
+Shibuya.lispテクニカルトーク第7回 (2011/10/22) 松山朋洋さんによる
+「括弧への異常な愛情 または私は如何にして心配するのを止めてCommon Lispを愛するようになったか」です。
+
+<iframe width="560" height="420" src="http://www.youtube.com/embed/nGcR7YWHYx8" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+発表資料:
+[]()

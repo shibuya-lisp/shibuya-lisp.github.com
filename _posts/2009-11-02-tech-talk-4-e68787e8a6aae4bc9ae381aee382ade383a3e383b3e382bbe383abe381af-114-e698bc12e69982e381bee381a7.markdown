@@ -1,0 +1,13 @@
+---
+comments: true
+date: 2009-11-02 01:19:09
+layout: post
+slug: tech-talk-4-%e6%87%87%e8%a6%aa%e4%bc%9a%e3%81%ae%e3%82%ad%e3%83%a3%e3%83%b3%e3%82%bb%e3%83%ab%e3%81%af-114-%e6%98%bc12%e6%99%82%e3%81%be%e3%81%a7
+title: 'Tech Talk #4 懇親会のキャンセルは 11/4 昼12時まで'
+wordpress_id: 496
+categories:
+- tech talk
+---
+
+懇親会をキャンセルされる場合は11月4日の昼12時までにお願いします。
+キャンセル方法の詳細は[登録ページ](http://atnd.org/events/1684#comment)をご確認ください。

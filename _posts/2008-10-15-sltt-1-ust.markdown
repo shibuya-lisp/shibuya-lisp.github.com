@@ -1,0 +1,18 @@
+---
+comments: true
+date: 2008-10-15 08:53:14
+layout: post
+slug: sltt-1-ust
+title: 'Shibuya.lisp テクニカルトーク #1 ustream 中継URL告知'
+wordpress_id: 198
+categories:
+- tech talk
+---
+
+今回のテクニカルトーク #1では、ustreamでの中継を予定していますが、当日の中継用URLが決定しました!
+
+-[shibuya-lisp, Ustream.TV: ((Shibuya.lisp)  Technical Talk)](http://www.ustream.tv/channel/shibuya-lisp)
+
+当日10/18日 開場の16:00付近から、終了の19:25付近までを配信予定です。
+加えて、後日動画共有サイト等に撮影された動画をアップすることも現在検討中です。
+当日ご来場頂けない方もustream中継とあわせてご期待下さい。

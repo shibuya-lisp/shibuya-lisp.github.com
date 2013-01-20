@@ -1,0 +1,24 @@
+---
+comments: true
+date: 2011-10-23 13:44:27
+layout: post
+slug: tt73
+title: Lispマシンを作ってみた
+wordpress_id: 788
+categories:
+- tech talk
+---
+
+Shibuya.lispテクニカルトーク第7回 (2011/10/22) 小黒直樹さんによる
+「Lispマシンを作ってみた」です。
+
+<iframe width="560" height="420" src="http://www.youtube.com/embed/BoHmf1YXI3k" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+資料:
+
+Spicaのソースコードを以下の場所で公開しています。
+[http://hg.koguro.net/spica](http://hg.koguro.net/spica)
+
+SDCardControllerは以下の場所です。
+[http://hg.koguro.net/sdcontroller](http://hg.koguro.net/sdcontroller)
+

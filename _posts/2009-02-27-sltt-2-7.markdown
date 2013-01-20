@@ -1,0 +1,43 @@
+---
+comments: true
+date: 2009-02-27 21:58:05
+layout: post
+slug: sltt-2-7
+title: TT#2 観覧待ち繰り上げ 続続報とプログラム変更のお知らせ
+wordpress_id: 318
+categories:
+- tech talk
+---
+
+いよいよShibuya.lisp テクニカルトーク #2 も本日開催となりました!
+
+
+#### 観覧繰り上げ
+
+
+前回お知らせしました状況から体調不良等のキャンセルのため再度2名の繰り上げが発生し、本日2/28日 11:30現在で テクニカルトーク は 83番目の katsu-i さんまで、懇親会は、55番目の shinh さんまでとなっております。
+
+下記「参加お申し込みフォーム」より状況をご確認頂けますようお願い致します。
+- [参加お申し込みフォーム](http://tips.lisp-users.org/talk/02/)
+※現在、フォーム/サーバの動作が若干不安定になっておりますので、万が一のキャンセルの場合は、
+shibuya.lisp+tt2@gmail.com
+までメールでのご連絡をお願い致します。
+
+
+#### プログラム変更のお知らせ
+
+
+今回予定されていました黄 澗石 氏のLT/「Introduction to Qi — building your own type checker to verify your Lisp code」は、発表者多忙のため急遽キャンセルとなりました。
+ご期待頂いているところ誠に申し訳ございませんが、何卒ご理解頂けますようお願い致します。
+
+
+#### ストリーミング配信のURLのお知らせ
+
+
+今回もustreamにて内容をストリーミング配信致します。
+14:30付近からの配信の予定です。
+	
+* [shibuya-lisp, Ustream.TV: ((Shibuya.lisp) Technical Talk)](http://www.ustream.tv/channel/shibuya-lisp)
+
+それでは、当日皆様にお会い/ご視聴頂けますことを楽しみにしております。
+

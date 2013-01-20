@@ -1,0 +1,140 @@
+---
+comments: true
+date: 2010-10-26 23:57:11
+layout: post
+slug: slh1
+title: 'Shibuya.lisp Hackathon #1開催! '
+wordpress_id: 677
+categories:
+- tech talk
+---
+
+先週の日曜日 10/24日にShibuya.lispのHackathonが開催されました。
+- [Shibuya.lisp Hackathon #1 : ATND](http://atnd.org/events/7595)
+無線LAN/電源完備、という日本オラクルさんの素晴しい会場のおかげさまで好評のうちに終了しました。
+会場を提供して頂いた日本オラクルさん、窓口となって頂いた、
+[@ymotongpoo](http://twitter.com/ymotongpoo)さん、主催者の[@yshigeru](http://twitter.com/yshigeru)さん、参加者の皆さんありがとうございました。
+参加者は、申し込み86名、実際に当日参加された参加者は総勢52名。
+運営が思い付きで企画した割には参加者の人に楽しんで頂けたようで良かったです。
+■
+全体の流れは、13:00から17:00までは、ひたすらハック、17:00から18:00にかけて発表となりました。
+発表の内容ですが、
+
+
+
+  
+  1. [@nitro_idiot](http://twitter.com/nitro_idiot)
+    
+      
+    * PerlのTest::More風のCLテストフレームワーク
+
+
+    
+  
+
+  
+  2. [@lambda_sakura](http://twitter.com/lambda_sakura)
+    
+      
+    * Common Lisp+SDLで作成しているゲーム(来年完成を目指し販売予定)のデモ
+
+    
+
+  
+
+  
+  3. [@garaemon](http://twitter.com/garaemon)
+    
+      
+    * Sphinx的なCLのドキュメント生成システム 
+
+    
+  
+
+
+  
+  4. [@Yuumi3](http://twitter.com/Yuumi3)
+    
+      
+    * iPad上のLisp処理系デモ
+
+    
+  
+
+  
+  5. [@machida](http://twitter.com/machida)
+
+    
+      
+    * Made with secret alien technology パーカー([パーカーdemo | Flickr - Photo Sharing!](http://www.flickr.com/photos/fjord_llc/5110001930/))
+
+    
+  
+
+  
+  6. [@kiwanami](http://twitter.com/kiwanami)
+    
+
+      
+    * deferred.elやskype.elの解説とデモ
+
+    
+  
+
+  
+  7. [@mgiken](http://twitter.com/mgiken)
+    
+      
+    * MongoDB+Arcや、Arc+Vimについて
+
+
+    
+  
+
+
+とバラエティーに富んだ内容となりました。
+
+もうちょっと長ければ完成したのに、という声もちらほら聞かれましたが、今回開催することにより開催の流れは掴めたので、次回には問題点諸々を改善して開催できたら良いなと思っています。
+■
+2010/10/26現在で見付けたShibuya.lisp Hackathon #1感想エントリー
+
+
+
+
+
+  
+  * [letter: 今日は Shibuya.lisp Hackathon #1](http://read-eval-print.blogspot.com/2010/10/shibuyalisp-hackathon-1_24.html)
+
+  
+  * [Lispのハッカソンに行ってきた - scalaとか・・・](http://d.hatena.ne.jp/xuwei/20101025/1288029488)
+
+
+  
+  * [Shibuya.lisp Hackathon #1でやったこと - komagata [p0t]](http://docs.komagata.org/4643)
+
+  
+  * [ Shibuya.lisp Hackathon #1に参加してみた - 技術日記＠kiwanami](http://d.hatena.ne.jp/kiwanami/20101025/1288011451)
+
+  
+  * [ブログ書いた #shibuyalisp - わからん](http://d.hatena.ne.jp/kitokitoki/20101024/p1)
+
+  
+  * [ 俺Lispをつくろう Step3.1 Shibuya.lisp Hackathon #1 で延々デバッグ漬けしてた - 筆者は病気シリーズ](http://d.hatena.ne.jp/illness072/20101026/1288045196)
+
+
+  
+  * [本を読む  Shibuya.lisp Hackathon #1でJGit＋Clojureをいじった](http://emasaka.blog65.fc2.com/blog-entry-825.html)
+
+  
+  * [Shibuya.lisp Hackathon #1へ行ってきました - the Unspeakable One](http://d.hatena.ne.jp/inuzini-jiro/20101025/1288021402)
+
+  
+  * [2010-10-24 - athosの日記](http://d.hatena.ne.jp/athos/20101024)
+
+  
+  * [auto-hightlight-symbol](http://d.hatena.ne.jp/tototoshi/20101024/1287931357)
+
+  
+  * [2010-10-24 - longicornの日記](http://d.hatena.ne.jp/longicorn/20101024#p1)
+
+

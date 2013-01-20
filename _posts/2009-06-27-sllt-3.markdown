@@ -1,0 +1,83 @@
+---
+comments: true
+date: 2009-06-27 00:20:36
+layout: post
+slug: sllt-3
+title: Shibuya.lisp TT#3 ライトニングトークの発表内容決定!
+wordpress_id: 393
+categories:
+- tech talk
+---
+
+Shibuya.lisp テクニカルトーク#2の第2部であるライトニングトークの発表順とその内容が決まりましたのでお知らせ致します。
+
+
+
+
+
+
+
+
+発表順
+
+
+発表テーマ
+
+
+お名前 (所属)
+
+
+
+
+
+
+1
+
+
+Scheme on Ruby on Rails
+
+
+Yuumi3 (Gaucheファンクラブ)
+
+
+
+
+
+
+2
+
+
+Emacs上での携帯絵文字の表示と入力補完
+
+
+IMAKADO ([面白法人KAYAC](http://www.kayac.com/))
+
+
+
+
+
+
+3
+
+
+WebブラウザをインターネットOSのシェルにしてGaucheと対話する
+
+
+源馬 照明 (名古屋大学大学院多元数理科学研究科)
+
+
+
+
+
+
+4
+
+
+失敗したら会社終わるようなプロジェクトで本当にlispを使ってみた
+
+
+mitamex
+
+
+
+第1部のテクニカルトークにも勝るとも劣らない興味深い内容ばかりです。乞うご期待!

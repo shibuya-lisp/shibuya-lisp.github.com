@@ -1,0 +1,20 @@
+---
+comments: true
+date: 2009-11-08 18:51:37
+layout: post
+slug: sltt-4-mov-4
+title: 'TT#4 第三部: LT あなたがSchemeを使うべき10の理由'
+wordpress_id: 515
+categories:
+- tech talk
+---
+
+Shibuya.lispテクニカルトーク第4回 (2009/11/07) yadokarielectricさんによる「あなたがSchemeを使うべき10の理由」です。
+
+<iframe width="560" height="420" src="http://www.youtube.com/embed/T7VFXZdyD6I" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+[ニコニコ動画](http://www.nicovideo.jp/watch/sm8746471)
+
+発表スライド:
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/2466496" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" > </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/yadokarielectric/scheme10" title="あなたがSchemeを使うべき10の理由" target="_blank">あなたがSchemeを使うべき10の理由</a> </strong> from <strong><a href="http://www.slideshare.net/yadokarielectric" target="_blank">yadokari electric</a></strong> </div>

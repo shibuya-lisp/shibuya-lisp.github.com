@@ -1,0 +1,16 @@
+---
+comments: true
+date: 2009-11-08 19:08:26
+layout: post
+slug: sltt-4-mov-7
+title: 'TT#4 第三部: LT Schemeではじめる音声認識'
+wordpress_id: 522
+categories:
+- Lisp
+---
+
+<iframe width="560" height="420" src="http://www.youtube.com/embed/accp9nvHuNo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+Shibuya.lispテクニカルトーク第4回 (2009/11/07) naoya_tさんによる「Schemeではじめる音声認識」です。
+
+[ニコニコ動画](http://www.nicovideo.jp/watch/sm8746411)

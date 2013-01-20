@@ -1,0 +1,151 @@
+---
+comments: true
+date: 2008-10-06 23:20:04
+layout: post
+slug: sllt-1
+title: Shibuya.lisp TT#1 ライトニングトークの発表内容決定!
+wordpress_id: 164
+categories:
+- tech talk
+---
+
+Shibuya.lisp テクニカルトーク#1の第2部であるライトニングトークの発表順とその内容が決まりましたのでお知らせ致します。
+
+
+
+
+
+
+
+
+発表順
+
+
+発表テーマ
+
+
+お名前
+(所属)
+
+
+
+
+
+
+1
+
+
+世界のナベアツにGaucheで挑戦する
+
+
+吉田茂 a.k.a. yshigeru
+([日本野望の会](http://www.yabooo.org/))
+
+
+
+
+
+
+2
+
+
+はじめてのScheme
+
+
+masa.edw
+
+
+
+
+
+
+3
+
+
+マイナーRPGはLispで
+
+
+oda
+
+
+
+
+
+
+4
+
+
+継続小説
+
+
+Kimura,Osamu(oskimura)
+([暗黒通信団](http://mikaka.org/~kana/))
+
+
+
+
+
+
+5
+
+
+Gaucheのコードをもっと速くする方法 (仮)
+
+
+小黒 直樹
+
+
+
+
+
+
+6
+
+
+CL/Schemeの組み込み利用
+
+
+mokehehe
+([cadr](http://cadr.g.hatena.ne.jp/))
+
+
+
+
+
+
+7
+
+
+初心者がgaucheでロボット制御（仮）
+
+
+衣川憲治（momo_dev:モモデブ）
+([バンダイロボット研究所](http://www.roboken.channel.or.jp/))
+
+
+
+
+
+
+8
+
+
+Reading Gaucheしてみませんか
+
+
+ココサブ
+
+
+
+第1部のテクニカルトークにも勝るとも劣らない興味深い内容ばかりです。乞うご期待!
+
+また、以前のエントリでも触れましたが、発表者、参加者、スタッフ有志による懇親会は、参加していただける方をまだ募集中です。
+詳細と参加表明は宴会くんにご記入お願いします。
+
+
+
+	
+  * [【宴会くん】](http://www.utage.org/enkai/)
+
+
+宴会コードは「Shibuya.lisp」です。会場手配の都合上、10月7日(火) 23:59で締め切らせていただきます。皆様にお会いできるのを楽しみにしております。

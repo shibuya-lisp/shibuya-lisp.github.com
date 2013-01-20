@@ -1,0 +1,109 @@
+---
+comments: false
+date: 2009-10-25 21:31:11
+layout: post
+slug: sltt-4-lter
+title: Shibuya.lisp TT#4 ライトニングトークの発表内容決定!
+wordpress_id: 468
+categories:
+- tech talk
+---
+
+Shibuya.lisp テクニカルトーク#4の第3部であるライトニングトークの発表順とその内容が決まりましたのでお知らせ致します。
+
+
+
+
+
+
+
+
+発表順
+
+
+発表テーマ
+
+
+お名前 (所属)
+
+
+
+
+
+
+1
+
+
+yadokarielectric
+
+
+あなたがSchemeを使うべき10の理由
+
+
+
+
+
+
+2
+
+
+mokehehe
+
+
+弾幕記述言語BulletSMLのご紹介 (cadrグループ)
+
+
+
+
+
+
+3
+
+
+garaemon
+
+
+3次元幾何モデルライブラリkomainu on CL
+
+
+
+
+
+
+4
+
+
+naoya_t
+
+
+（仮）Schemeではじめる音声認識
+
+
+
+
+
+
+5
+
+
+making (まきんぐ)
+
+
+他言語で作ったWEBページをLispでも！（仮）
+
+
+
+
+
+
+6
+
+
+ひげぽん
+
+
+さあ家に帰ったらSchemeのコード書いてみよう (サイボウズ・ラボ)
+
+
+
+テクニカルトークにも勝るとも劣らない興味深い内容ばかりです。乞うご期待!

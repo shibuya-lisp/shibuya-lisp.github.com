@@ -1,0 +1,18 @@
+---
+comments: true
+date: 2011-10-23 21:27:33
+layout: post
+slug: tt7lt3
+title: Web Applicationが思うがままに書ける(call-in-remote-instance)の作り方と使い方
+wordpress_id: 796
+categories:
+- tech talk
+---
+
+Shibuya.lispテクニカルトーク第7回 (2011/10/22) 橋本 隼人さんによる
+「Web Applicationが思うがままに書ける(call-in-remote-instance)の作り方と使い方」です。
+
+<iframe width="560" height="420" src="http://www.youtube.com/embed/KNtEGs4aPAE" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+資料:
+

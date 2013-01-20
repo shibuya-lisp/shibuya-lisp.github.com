@@ -1,0 +1,35 @@
+---
+comments: true
+date: 2009-11-06 18:46:28
+layout: post
+slug: sltt-4-2
+title: 明日はShibuya.lisp TT#4です!
+wordpress_id: 498
+categories:
+- tech talk
+---
+
+Shibuya.lisp TT#4もいよいよ明日11/7(土)の開催です!
+
+
+キャンセルため若干の繰り上げが発生していますので、キャンセル待ち付近の方は、参加申し込みフォームをご確認下さい。
+- [参加お申し込みフォーム](http://tips.lisp-users.org/talk/04/)
+
+
+
+
+### Lisp入門セッション事前準備について
+
+
+13:00より開始のLisp入門セッションは、**インストールして来て頂くソフトがあります**ので、ご参加の方は、下記のリンクからダウンロードしてご用意下さい。
+- [**テキスト・サンプルコード**](http://ey-office.net/redmine/attachments/28/shibuya_lisp4.zip)
+※会場ではインターネットに接続できるLANを提供しておりませんので、事前にダウンロードしておくことをお勧めします。
+また、Gaucheをインストールしてない方は、あわせてこちらページよりインストール方法をご参照下さい。
+
+
+
+	
+  * [ふつうのLisp入門](http://ey-office.net/redmine/wiki/gauche/ShibuyaLisp4)
+
+
+

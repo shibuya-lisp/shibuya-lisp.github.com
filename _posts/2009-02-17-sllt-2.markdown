@@ -1,0 +1,173 @@
+---
+comments: false
+date: 2009-02-17 23:44:58
+layout: post
+slug: sllt-2
+title: Shibuya.lisp TT#2 ライトニングトークの発表内容決定!
+wordpress_id: 290
+categories:
+- tech talk
+---
+
+Shibuya.lisp テクニカルトーク#2の第2部であるライトニングトークの発表順とその内容が決まりましたのでお知らせ致します。
+
+
+
+
+
+
+
+
+発表順
+
+
+発表テーマ
+
+
+お名前
+(所属)
+
+
+
+
+
+
+1
+
+
+SchemeでBluetoothスタックを書く
+
+
+okuoku
+(電通大 MMA)
+
+
+
+
+
+
+2
+
+
+この木 なんの木 木になるS式 〜FUSEでS式ファイルシステム〜
+
+
+源馬 照明
+
+
+
+
+
+
+3
+
+
+Lisperは怠け者の夢は見ないの？
+
+
+山下伸夫
+([タイムインターメディア](http://www.timedia.co.jp/))
+
+
+
+
+
+
+4
+
+
+Introduction to Qi -- building your own type checker to verify your Lisp code
+
+
+黄 澗石
+([数理システム](http://www.msi.co.jp/))
+
+
+
+
+
+
+5
+
+
+Cyanの現状と、これから
+
+
+林 拓人/takuto_h
+
+
+
+
+
+
+6
+
+
+cl-irregsexp -- the fastest regular expression library on the planet (in any language)
+
+
+John Fremlin
+
+
+
+
+
+
+7
+
+
+流行るLisp用Webフレームワーク(Gauche on Railsから学んだ事)
+
+
+吉田裕美
+(Gaucheファンクラブ)
+
+
+
+
+
+
+8
+
+
+よりよいLispプログラムを目指して(仮)
+
+
+yhara
+([ネットワーク応用通信研究所](http://www.netlab.jp/))
+
+
+
+第1部のテクニカルトークにも勝るとも劣らない興味深い内容ばかりです。乞うご期待!
+
+
+### 今回の発表のUSTREAMでの中継/動画アップロードにつきまして
+
+
+前回のTT#1では、発表者全員より撮影許可を頂けましたので、内容全編を中継/アップロード致しましたが、今回は、すべての発表者の方に撮影承諾を頂けておりませんので、一部内容の中継/アップロードができません。
+中継不許可/未定の状況は現在下記のようになっています
+
+
+#### 中継/アップロード不許可
+
+
+
+
+
+	
+  * Lisp quote unquote (黒田寿男/数理システム)
+
+
+
+
+#### 中継/アップロード未定
+
+
+
+
+
+	
+  * 私がLispでプログラムを書く理由 (和田英一)
+
+
+ご期待頂いているところ誠に申し訳ございませんが、何卒ご理解頂けますようお願い致します。(未定分については当日までに確定致します)

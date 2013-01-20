@@ -1,0 +1,149 @@
+---
+comments: false
+date: 2011-10-18 23:54:06
+layout: post
+slug: sltt7-lter
+title: Shibuya.lisp TT#7 ライトニングトークの発表内容決定!
+wordpress_id: 771
+categories:
+- tech talk
+---
+
+Shibuya.lisp テクニカルトーク#7のライトニングトークの発表順とその内容が決まりましたのでお知らせ致します。
+
+
+
+
+
+
+
+
+発表順
+
+
+発表テーマ
+
+
+お名前 (所属)
+
+
+
+
+
+
+1
+
+
+scheme to c++0x
+
+
+新妻弘崇
+
+
+
+
+
+
+2
+
+
+(文型素人による)実用を目指したArc処理系の(孤独な)開発
+
+
+青山新/id:nagayoru
+(東京藝術大学大学院 映像研究科 メディア映像専攻)
+
+
+
+
+
+
+3
+
+
+CL Libraries
+
+
+深町英太郎(株式会社はてな)
+
+
+
+
+
+
+4
+
+
+Web Applicationが思うがままに書ける(call-in-remote-instance)の作り方と使い方
+
+
+橋本 隼人
+
+
+
+
+
+
+5
+
+
+長いの
+
+
+emasaka
+
+
+
+
+
+
+6
+
+
+Clojure によるバイトコードプログラミング(仮)
+
+
+太田 正悟(athos0220)
+
+
+
+
+
+
+7
+
+
+「The Lifeboat PERSPECTIVE 1989 AUGUST 特集/LISPミニツール」の紹介
+
+
+田中 洸一(株式会社万葉)
+
+
+
+
+
+
+8
+
+
+Scheme で Facebook アプリ作ってみた（仮）
+
+
+ひげぽん(サイボウズ・ラボ)
+
+
+
+
+
+
+9
+
+
+KondoLisp -極小Lisp遊戯-
+
+
+hayamiz(東京大学)
+
+
+
+テクニカルトークにも勝るとも劣らない興味深い内容ばかりです。乞うご期待!

@@ -1,0 +1,22 @@
+---
+comments: false
+date: 2010-03-21 22:34:17
+layout: post
+slug: sltt-5-mov-3
+title: EmacsLispのある生活 〜 Clojureでプレゼンソフトを作って見えてきたこと
+wordpress_id: 601
+categories:
+- tech talk
+---
+
+Shibuya.lispテクニカルトーク第5回 (2010/03/20) hayamizさんによる「Emacs Lispのある生活 〜 Clojureでプレゼンソフトを作って見えてきたこと」です。 
+
+<iframe width="560" height="420" src="http://www.youtube.com/embed/hx_LZ_0zXpA" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+[ニコニコ動画版](http://www.nicovideo.jp/watch/sm10103582)
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/3487391" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" > </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/hayamiz/emacs-lisp-3487391" title="Emacs Lispのある生活" target="_blank">Emacs Lispのある生活</a> </strong> from <strong><a href="http://www.slideshare.net/hayamiz" target="_blank">Yuto Hayamizu</a></strong> </div>
+
+関連ブログエントリー:
+[Shibuya.lisp TT#5 で発表しました](http://d.hatena.ne.jp/hayamiz/20100320/1269108001)
+

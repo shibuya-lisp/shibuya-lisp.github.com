@@ -1,0 +1,16 @@
+---
+comments: true
+date: 2009-11-08 18:29:20
+layout: post
+slug: sltt-4-mov-3
+title: 'TT#4 第二部: 1980年前後のLisp事情とUtiLisp'
+wordpress_id: 512
+categories:
+- tech talk
+---
+
+<iframe width="560" height="420" src="http://www.youtube.com/embed/ZSy8UYOL9YM" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+Shibuya.lispテクニカルトーク第4回 (2009/11/07) 近山隆さんによる「1980年前後のLisp事情とUtiLisp」です。(YouTube 全8動画)
+
+[ニコニコ動画(全4動画)](http://www.nicovideo.jp/watch/sm8747351)

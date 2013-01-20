@@ -1,0 +1,20 @@
+---
+comments: true
+date: 2011-10-23 21:26:51
+layout: post
+slug: tt7lt2
+title: (文型素人による)実用を目指したArc処理系の(孤独な)開発
+wordpress_id: 794
+categories:
+- tech talk
+---
+
+Shibuya.lispテクニカルトーク第7回 (2011/10/22) 青山新/id:nagayoruさんによる
+「(文型素人による)実用を目指したArc処理系の(孤独な)開発」です。
+
+<iframe width="560" height="420" src="http://www.youtube.com/embed/Ux102OxDTis " frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+資料:
+
+[Shibuya.lisp TT#07: 文型素人による実用を目指したArc処理系の孤独な開発](http://www.slideshare.net/smihica/20111022-9841178)
+

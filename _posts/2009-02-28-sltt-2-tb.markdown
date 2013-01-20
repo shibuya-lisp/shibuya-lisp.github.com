@@ -1,0 +1,154 @@
+---
+comments: true
+date: 2009-02-28 21:12:39
+layout: post
+slug: sltt-2-tb
+title: '2009/02/28 Shibuya.lisp テクニカルトーク #2 開催!!'
+wordpress_id: 297
+categories:
+- tech talk
+---
+
+本日 2/28、Shibuya.lisp テクニカルトーク #2が無事開催されました!
+参加された皆様、ustreamを視聴して頂いた皆様、ありがとうございます。
+
+
+#### 謝辞:
+
+
+今回もECナビさんよりセミナールームを会場としてご提供頂きました。
+素敵な会場をご提供頂きありがとうございます!
+- [ECナビ](http://ecnavi.co.jp/)
+
+また、今回もEY-Office 吉田さんより歓談スペースでのドリンク/お菓子をご提供頂き、休憩中の参加者同士の交流も促進できました。
+ありがとうございます。
+- [EY-Office](http://www.ey-office.com/)
+
+このエントリーは、トラックバック用/まとめ用のエントリーです。
+本日のShibuya.lisp テクニカルトーク #2 感想ブログエントリ等を書かれる際には、こちらにトラックバック等を頂けると幸いです。
+
+
+#### トラックバックURL:
+
+
+http://shibuya.lisp-users.org/2009/02/28/sltt-2-tb/trackback/
+※トラックバックは承認制となっていますので、反映まで時間がかかることがあります。予めご了承下さい。
+
+また、こちらのエントリーにまとめ情報を追記して行く予定です。
+
+
+### ソーシャルブックマーク:
+
+
+[Buzzurl - shibuya.lisp](http://buzzurl.jp/tag/shibuya.lisp)
+[delicious - shibuya.lisp](http://delicious.com/tag/shibuya.lisp)
+[はてなブックマーク - shibuya.lisp](http://b.hatena.ne.jp/t/shibuya.lisp)
+
+
+#### 参加者さんによるShibuya.lisp TT#2まとめページ:
+
+
+emasakaさん :[「Shibuya.lispテクニカルトーク#2」に参加](http://emasaka.blog65.fc2.com/blog-entry-564.html)
+
+
+#### 発表者公開資料リンク:
+
+
+naoya_t 氏: [開会のことば](http://www.slideshare.net/naoya_t/shibuyalisp-tt2-opening)
+
+テクニカル・トーク:
+higepon 氏: [Toy to practical interpreter Mosh intenals](http://www.slideshare.net/higepon/toy-to-practical-interpreter-mosh-intenals-shibuyalisp20090228-1083314)
+黒田 寿夫 氏: [Lisp quote unquote](http://cl-www.msi.co.jp/articles/lisp-talk.html)
+藤田 善勝 氏: [R6RS Schemeの実装、syntax-caseなどについて (PDF)](http://www.littlewing.co.jp/ypsilon/shibuyalisp/TT2-fujita-talk-slide.pdf)
+
+ライトニングトーク:
+okuoku 氏: [SchemeでBluetoothスタックを書く (PDF)](http://storage.osdev.info/pub/idmjt/diaryimage/0902/neta080228l1.pdf)
+源馬 照明 氏: この木 なんの木 木になるS式 〜FUSEでS式ファイルシステム〜
+山下 伸夫 氏: [Lisperは怠け者の夢は見ないの？ /LasySのソース](http://d.hatena.ne.jp/nobsun/20090302)
+林 拓人/takuto_h 氏: [Cyanの現状と、これから](http://www.geocities.jp/takt0_h/slide/index.html)
+John Fremlin 氏: cl-irregsexp — the fastest regular expression library on the planet (in any language)
+吉田 裕美 氏: [流行るLisp用Webフレームワーク(Gauche on Railsから学んだ事) (PDF)](http://www.ey-office.net/public/GaucheOnRailsNext.pdf)
+yhara 氏: [よりよいLispプログラムを目指して(冬)](http://mono.kmc.gr.jp/~yhara/files/heikou_shihenkei/)
+
+
+#### 公開動画
+
+
+
+
+#### ニコニコ動画:
+
+
+**開会のことば:**
+[Shibuya.lispテクニカルトーク#2 開会の挨拶](http://www.nicovideo.jp/watch/sm6299315)
+
+**テクニカル・トーク:**
+**higepon 氏:**
+[Toy to practical interpreter Mosh internals](http://www.nicovideo.jp/watch/sm6299344)
+**藤田善勝 氏:**
+[R6RS Schemeの実装、syntax-caseなどについて](http://www.nicovideo.jp/watch/sm6299393)
+**和田英一 氏:**
+[私がLispでプログラムを書く理由 [1/2]](http://www.nicovideo.jp/watch/sm6302603)
+[私がLispでプログラムを書く理由 [2/2]](http://www.nicovideo.jp/watch/sm6302765)
+
+**ライトニング・トーク:**
+**okuoku氏:**
+[SchemeでBluetoothスタックを書く](http://www.nicovideo.jp/watch/sm6302945)
+**源馬 照明 氏:**
+[この木 なんの木 木になるS式 〜FUSEでS式ファイルシステム〜](http://www.nicovideo.jp/watch/sm6303013)
+**山下 伸夫 氏:**
+[Lisperは怠け者の夢は見ないの？](http://www.nicovideo.jp/watch/sm6303132)
+**林 拓人/takuto_h 氏:**
+[Cyanの現状と、これから](http://www.nicovideo.jp/watch/sm6303215)
+**John Fremlin 氏:**
+[cl-irregsexp -- the fastest regular expression library on the planet](http://www.nicovideo.jp/watch/sm6303248)
+**吉田 裕美 氏:**
+[流行るLisp用Webフレームワーク(Gauche on Railsから学んだ事)](http://www.nicovideo.jp/watch/sm6303487)
+**yhara 氏:**
+[よりよいLispプログラムを目指して(冬)](http://www.nicovideo.jp/watch/sm6303572)
+
+
+#### YouTube:
+
+
+**開会のことば:**
+[Shibuya.lispテクニカルトーク#2 開会の挨拶](http://www.youtube.com/watch?v=SEZsNeA6ZJs)
+
+**テクニカル・トーク:**
+**higepon 氏:**
+[Toy to practical interpreter Mosh internals [1/5]](http://www.youtube.com/watch?v=bGdkuKoQ09o)
+[Toy to practical interpreter Mosh internals [2/5]](http://www.youtube.com/watch?v=5_dXw6RKVd4)
+[Toy to practical interpreter Mosh internals [3/5]](http://www.youtube.com/watch?v=zuaf36jW2dg)
+[Toy to practical interpreter Mosh internals [4/5]](http://www.youtube.com/watch?v=cuqi94lqIUM)
+[Toy to practical interpreter Mosh internals [5/5]](http://www.youtube.com/watch?v=dNLMMJjfy6Q)
+**藤田善勝 氏:**
+[R6RS Schemeの実装、syntax-caseなどについて [1/5]](http://www.youtube.com/watch?v=FPsjXt9MytI)
+[R6RS Schemeの実装、syntax-caseなどについて [2/5]](http://www.youtube.com/watch?v=NqOp6qZA790)
+[R6RS Schemeの実装、syntax-caseなどについて [3/5]](http://www.youtube.com/watch?v=LFr6JDLeND4)
+[R6RS Schemeの実装、syntax-caseなどについて [4/5]](http://www.youtube.com/watch?v=_cgawWyOuSo)
+[R6RS Schemeの実装、syntax-caseなどについて [5/5]](http://www.youtube.com/watch?v=J-oLfBeB07U)
+**和田英一 氏:**
+[私がLispでプログラムを書く理由 [1/7]](http://www.youtube.com/watch?v=w8IxEQmtjSE)
+[私がLispでプログラムを書く理由 [2/7]](http://www.youtube.com/watch?v=LWQhMOt15zA)
+[私がLispでプログラムを書く理由 [3/7]](http://www.youtube.com/watch?v=hH8KxaEb068)
+[私がLispでプログラムを書く理由 [4/7]](http://www.youtube.com/watch?v=kZFWpVC7c9I)
+[私がLispでプログラムを書く理由 [5/7]](http://www.youtube.com/watch?v=Dxno3bI8q2I)
+[私がLispでプログラムを書く理由 [6/7]](http://www.youtube.com/watch?v=DQ0fo8WvcHM)
+[私がLispでプログラムを書く理由 [7/7]](http://www.youtube.com/watch?v=-C3jY1xQtYI)
+
+**ライトニング・トーク:**
+**okuoku氏:**
+[SchemeでBluetoothスタックを書く](http://www.youtube.com/watch?v=80W0uIrg17k)
+**源馬 照明 氏:**
+[この木 なんの木 木になるS式 〜FUSEでS式ファイルシステム〜](http://www.youtube.com/watch?v=6zkje6tDfkM)
+**山下 伸夫 氏:**
+[Lisperは怠け者の夢は見ないの？](http://www.youtube.com/watch?v=dKKyatLbIV8)
+**林 拓人/takuto_h 氏:**
+[Cyanの現状と、これから](http://www.youtube.com/watch?v=xXHXgCgW1Wo)
+**John Fremlin 氏:**
+[cl-irregsexp -- the fastest regular expression library on the planet](http://www.youtube.com/watch?v=aJPAGELD4SE)
+**吉田 裕美 氏:**
+[流行るLisp用Webフレームワーク(Gauche on Railsから学んだ事)](http://www.youtube.com/watch?v=VefazgHhUnI)
+**yhara 氏:**
+[よりよいLispプログラムを目指して(冬)](http://www.youtube.com/watch?v=UnDZHacrBTA)
+

@@ -1,0 +1,17 @@
+---
+comments: true
+date: 2011-10-23 21:29:01
+layout: post
+slug: tt7lt5
+title: Clojure によるバイトコードプログラミング
+wordpress_id: 800
+categories:
+- tech talk
+---
+
+Shibuya.lispテクニカルトーク第7回 (2011/10/22) 太田 正悟(athos0220)さんによる
+「Clojure によるバイトコードプログラミング(仮)」です。
+
+<iframe width="560" height="420" src="http://www.youtube.com/embed/OXBlKUpM_Bs" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+資料:

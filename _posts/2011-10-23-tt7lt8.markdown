@@ -1,0 +1,21 @@
+---
+comments: false
+date: 2011-10-23 21:34:10
+layout: post
+slug: tt7lt8
+title: KondoLisp -極小Lisp遊戯-
+wordpress_id: 807
+categories:
+- tech talk
+---
+
+Shibuya.lispテクニカルトーク第7回 (2011/10/22) hayamizさんによる
+「KondoLisp -極小Lisp遊戯-」です。
+
+<iframe width="560" height="420" src="http://www.youtube.com/embed/bNMKh1RVdmI" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+発表資料:
+[http://www.slideshare.net/hayamiz/shibuyalisp-tt07-kondolisp-lisp-9830692](http://www.slideshare.net/hayamiz/shibuyalisp-tt07-kondolisp-lisp-9830692)
+
+コード:
+[https://github.com/hayamiz/kondo-lisp](https://github.com/hayamiz/kondo-lisp)

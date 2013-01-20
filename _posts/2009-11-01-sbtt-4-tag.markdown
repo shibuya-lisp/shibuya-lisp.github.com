@@ -1,0 +1,65 @@
+---
+comments: false
+date: 2009-11-01 22:40:59
+layout: post
+slug: sbtt-4-tag
+title: 来週の土曜日はShibuya.lisp TT#4です!
+wordpress_id: 481
+categories:
+- tech talk
+---
+
+Shibuya.lisp TT#4もいよいよ来週11/7(土)の開催となりました!
+
+
+キャンセルため若干の繰り上げが発生していますので、キャンセル待ち付近の方は、参加申し込みフォームをご確認下さい。
+- [参加お申し込みフォーム](http://tips.lisp-users.org/talk/04/)
+
+
+
+
+### Lisp入門セッション事前準備について
+
+
+13:00より開始のLisp入門セッションは、**インストールして来て頂くソフト**がありますので、
+ご参加の方は、下記のリンクを参照してご用意下さい。
+※会場ではインターネットに接続できるLANを提供しておりませんので、事前にダウンロードしておくことをお勧めします。
+
+
+
+	
+  * [ふつうのLisp入門](http://ey-office.net/redmine/wiki/gauche/ShibuyaLisp4)
+
+
+
+
+### 公式タグについて
+
+
+Shibuya.lispのソーシャルブックマーク等の公式タグ名は下記のようになっています。
+
+
+#### Twitterハッシュタグ
+
+
+タグ: [#shibuyalisp](http://twitter.com/#search?q=%23shibuyalisp)
+
+
+#### ソーシャルブックマーク
+
+
+タグ: shibuya.lisp
+[Buzzurl - shibuya.lisp](http://buzzurl.jp/tag/shibuya.lisp)
+[delicious - shibuya.lisp](http://delicious.com/tag/shibuya.lisp)
+[はてなブックマーク - shibuya.lisp](http://b.hatena.ne.jp/t/shibuya.lisp)
+[livedoorクリップ - shibuya.lisp](http://clip.livedoor.com/tag/shibuya.lisp)
+
+
+#### トラックバック用エントリ
+
+
+Shibuya.lisp テクニカルトーク #4 感想ブログエントリのトラックバック先としては下記を予定しています。
+なお、まだエントリは書かれていませんのでご注意下さい。
+**トラックバックURL:**
+http://shibuya.lisp-users.org/2009/11/07/sltt-4-tb/trackback/
+

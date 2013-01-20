@@ -1,0 +1,24 @@
+---
+comments: false
+date: 2010-03-21 22:42:05
+layout: post
+slug: sllt-5-mov-1
+title: 1+1はなぜ2になるの？ 〜Gaucheによる証明〜
+wordpress_id: 606
+categories:
+- tech talk
+---
+
+Shibuya.lispテクニカルトーク第5回 (2010/03/20) アラスカ猫さんによる「1+1はなぜ2になるの？ ～Gaucheによる証明～」です。   
+
+<iframe width="560" height="420" src="http://www.youtube.com/embed/fravTDgk79U" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+[ニコニコ動画版](http://www.nicovideo.jp/watch/sm10103441)
+
+発表スライド:
+[1＋1が2になるのはなぜ？(OpenDocumentプレゼンテーション形式)](http://tips.lisp-users.org/talk/05/1＋1が2になるのはなぜ？.odp)
+
+発表資料/コード:
+[1＋1が2になるのはなぜ？(tar.gz)](http://tips.lisp-users.org/talk/05/ShibuyaLT.tar.gz)
+
+

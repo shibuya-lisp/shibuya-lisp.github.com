@@ -1,0 +1,14 @@
+---
+comments: true
+date: 2008-10-13 05:52:57
+layout: post
+slug: sltt-1-stat
+title: 'Shibuya.lisp テクニカルトーク #1 観覧キャンセル待ち状況'
+wordpress_id: 191
+categories:
+- tech talk
+---
+
+Shibuya.lispもいよいよ今週の土曜日の開催となりました!
+今回、予想以上の申し込みペースにより開催の告知から間もなく定員となってしまい、定員以降の申し込みはキャンセル待ち状態となっていましたが、LT枠との重複、申し込みのキャンセル等にて、締め切り時よりも、5名分枠がずれています(10/18日10:00現在)ので、キャンセル待ちの方は、下記リンクより状況をご確認頂けますようお願い致します。(現在申し込み65番目の方まで観覧可能です)
+-[Shibuya.lisp Tech talk #1 参加フォーム](http://shibuya.lisp-users.org/talk/)

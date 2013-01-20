@@ -1,0 +1,22 @@
+---
+comments: false
+date: 2010-11-28 00:36:46
+layout: post
+slug: sltt-lt-3
+title: Gaucheを使った簡易出版システム
+wordpress_id: 714
+categories:
+- tech talk
+---
+
+Shibuya.lispテクニカルトーク第6回 (2010/11/27) Yuumi3さんによる
+「Gaucheを使った簡易出版システム」です。
+
+<iframe width="560" height="420" src="http://www.youtube.com/embed/D3gNCjFZj_g" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+発表資料:
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/5945913" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" > </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/yuumi3/gauche-dt-psys-5945913" title="Gaucheを使った簡易出版システム" target="_blank">Gaucheを使った簡易出版システム</a> </strong> from <strong><a href="http://www.slideshare.net/yuumi3" target="_blank">Yuumi Yoshida</a></strong> </div>
+
+ソースコード:
+[GaucheMinDTP](https://github.com/yuumi3/GaucheMinDTP)

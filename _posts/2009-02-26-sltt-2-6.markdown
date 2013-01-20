@@ -1,0 +1,33 @@
+---
+comments: true
+date: 2009-02-26 17:43:30
+layout: post
+slug: sltt-2-6
+title: TT#2 反響用URLとソーシャルブックマークのタグの事前告知
+wordpress_id: 310
+categories:
+- tech talk
+---
+
+いよいよ、Shibuya.lisp TT#2の開催も明後日となりました!
+前回、ブックマークするためのタグが統一されていた方が良かったという反省と、ブログの感想エントリでどこにトラックバックしたら良いかが良く分からないという声を頂きましたので、今回は、ガイドライン的に開催前にソーシャルブックマークのタグ名と、ブログの感想エントリ用のトラックバックのURLを決定し告知することとしてみました。
+
+
+### トラックバック用エントリ
+
+
+Shibuya.lisp テクニカルトーク #2 感想ブログエントリのトラックバック先としては下記を予定しています。
+なお今日、26日現在では、まだエントリは書かれていませんのでご注意下さい。
+**トラックバックURL:**
+http://shibuya.lisp-users.org/2009/02/28/sltt-2-tb/trackback/
+
+
+### ソーシャルブックマーク
+
+
+ソーシャルブックマークのタグは現在のところ大体「shibuya.lisp」で統一されているようですので、これを踏襲したいと思います。
+**ソーシャルブックマーク:**
+[Buzzurl - shibuya.lisp](http://buzzurl.jp/tag/shibuya.lisp)
+[delicious - shibuya.lisp](http://delicious.com/tag/shibuya.lisp)
+[はてなブックマーク - shibuya.lisp](http://b.hatena.ne.jp/t/shibuya.lisp)
+[livedoorクリップ - shibuya.lisp](http://clip.livedoor.com/tag/shibuya.lisp)

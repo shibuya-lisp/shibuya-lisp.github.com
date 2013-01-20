@@ -1,0 +1,16 @@
+---
+comments: false
+date: 2010-03-21 22:50:50
+layout: post
+slug: sllt-5-mov-3
+title: 自分をClojure化する方法
+wordpress_id: 612
+categories:
+- tech talk
+---
+
+Shibuya.lispテクニカルトーク第5回 (2010/03/20) 深町英太郎さんによる「自分をClojure化する方法」です。 
+
+<iframe width="560" height="420" src="http://www.youtube.com/embed/OqIjENKRydc" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+[ニコニコ動画版](http://www.nicovideo.jp/watch/sm10104411)

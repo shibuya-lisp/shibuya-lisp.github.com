@@ -1,0 +1,17 @@
+---
+comments: false
+date: 2010-03-21 22:29:15
+layout: post
+slug: sltt-5-mov-2
+title: 初めての人のためのClojure
+wordpress_id: 598
+categories:
+- tech talk
+---
+
+Shibuya.lispテクニカルトーク第5回 (2010/03/20) 吉田 茂 (yshigeru)さんによる「初めての人のためのCloju re」です。
+
+<iframe width="560" height="420" src="http://www.youtube.com/embed/PueDZWlwo3U" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+[ニコニコ動画版](http://www.nicovideo.jp/watch/sm10104611)
+

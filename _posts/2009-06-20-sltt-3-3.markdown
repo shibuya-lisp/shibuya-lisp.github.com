@@ -1,0 +1,25 @@
+---
+comments: false
+date: 2009-06-20 21:00:24
+layout: post
+slug: sltt-3-3
+title: 'Shibuya.lisp テクニカルトーク #3 観覧者募集開始!'
+wordpress_id: 380
+categories:
+- tech talk
+---
+
+前回のエントリにて予告しておりました観覧者の募集についてですが、下記フォームよりお申し込み下さい。
+ただし、スタッフと出演者の方は申し込みの必要はありません。
+
+
+# - [テクニカルトーク参加お申し込みフォーム](http://tips.lisp-users.org/talk/03/)
+
+
+今回の懇親会の申し込みは宴会さんを利用させていただいております。下記フォームよりお申し込み下さい。
+
+
+# - [懇親会申し込みフォーム](http://popokilani.com/index.cgi/paina/party?code=Shibuya.lisp)
+
+
+皆様のご参加お待ちしております!

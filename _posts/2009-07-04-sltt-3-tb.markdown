@@ -1,0 +1,154 @@
+---
+comments: true
+date: 2009-07-04 19:22:15
+layout: post
+slug: sltt-3-tb
+title: '2009/07/04 Shibuya.lisp テクニカルトーク #3 開催!!'
+wordpress_id: 423
+categories:
+- tech talk
+---
+
+本日 7/4、Shibuya.lisp テクニカルトーク #3が無事開催されました!
+参加された皆様、ustreamを視聴して頂いた皆様、ありがとうございます。
+
+
+#### 謝辞:
+
+
+今回もECナビさんよりセミナールームを会場としてご提供頂きました。
+素敵な会場をご提供頂きありがとうございます!
+- [ECナビ](http://ecnavi.co.jp/)
+
+また、今回もEY-Office 吉田さんより歓談スペースでのドリンク/お菓子をご提供頂き、休憩中の参加者同士の交流も促進できました。
+ありがとうございます。
+- [EY-Office](http://www.ey-office.com/)
+
+このエントリーは、トラックバック用/まとめ用のエントリーです。
+本日のShibuya.lisp テクニカルトーク #3 感想ブログエントリ等を書かれる際には、こちらにトラックバック等を頂けると幸いです。
+
+
+#### トラックバックURL:
+
+
+http://shibuya.lisp-users.org/2009/07/04/sltt-3-tb/trackback/
+※トラックバックは承認制となっていますので、反映まで時間がかかることがあります。予めご了承下さい。
+
+また、こちらのエントリーにまとめ情報を追記して行く予定です。
+
+
+### ソーシャルブックマーク:
+
+
+[Buzzurl - shibuya.lisp](http://buzzurl.jp/tag/shibuya.lisp)
+[delicious - shibuya.lisp](http://delicious.com/tag/shibuya.lisp)
+[はてなブックマーク - shibuya.lisp](http://b.hatena.ne.jp/t/shibuya.lisp)
+
+
+#### 参加者さんによるShibuya.lisp TT#3まとめページ:
+
+
+emasakaさん:
+[「Shibuya.lispテクニカルトーク#3」観覧](http://emasaka.blog65.fc2.com/blog-entry-629.html)
+
+
+#### 発表者公開資料リンク:
+
+
+
+
+#### ニコニコ動画:
+
+
+**テクニカル・トーク:**
+[Shibuya.lispテクニカルトーク#3 全体](http://www.nicovideo.jp/mylist/13373941)
+
+佐野 匡俊氏:
+[開会の挨拶](http://www.nicovideo.jp/watch/sm7542223)
+
+松本 智行氏:
+[世界一短いコードでwebアプリ作成ができるフレームワーク開発](http://www.nicovideo.jp/watch/sm7542934)
+
+ilma氏:
+[R5RS 完全準拠 JVM 日本語 Scheme インタプリタ 「Gino(仮)](http://www.nicovideo.jp/watch/sm7543368)
+
+John Fremlin氏:
+[teepeedee2: fast IO in Lisp](http://www.nicovideo.jp/watch/sm7543530)
+
+小黒 直樹氏:
+[Inside c-wrapper](http://www.nicovideo.jp/watch/sm7543076)
+
+川合 史朗氏:
+[(現場のScheme)と(Gaucheの進化)](http://www.nicovideo.jp/watch/sm7543249)
+
+**ライトニング・トーク:**
+
+Yuumi3氏:
+[Scheme on Ruby on Rails](http://www.nicovideo.jp/watch/sm7541977)
+
+源馬 照明氏:
+[WebブラウザをインターネットOSのシェルにしてGaucheと対話する](http://www.nicovideo.jp/watch/sm7542102)
+
+mitamex氏:
+[失敗したら会社終わるようなプロジェクトで本当にlispを使ってみた](http://www.nicovideo.jp/watch/sm7542139)
+
+IMAKADO氏:
+[Emacs上での携帯絵文字の表示と入力補完](http://www.nicovideo.jp/watch/sm7542051)
+
+
+#### YouTube:
+
+
+**テクニカル・トーク:**
+[Shibuya.lisp テクニカルトーク#3 再生リスト](http://www.youtube.com/view_play_list?p=C7D5490AD455E464)
+
+松本 智行氏:
+[世界一短いコードでwebアプリ作成ができるフレームワーク開発 [1/5]](http://www.youtube.com/watch?v=K9vKnfnIgCo)
+[世界一短いコードでwebアプリ作成ができるフレームワーク開発 [2/5]](http://www.youtube.com/watch?v=aHm0jsYcwIY)
+[世界一短いコードでwebアプリ作成ができるフレームワーク開発 [3/5]](http://www.youtube.com/watch?v=IBH1DdAj0Ks)
+[世界一短いコードでwebアプリ作成ができるフレームワーク開発 [4/5]](http://www.youtube.com/watch?v=itYGl0vcnx0)
+[世界一短いコードでwebアプリ作成ができるフレームワーク開発 [5/5]](http://www.youtube.com/watch?v=drFiECAJUxU)
+
+ilma氏:
+[R5RS完全準拠JVM日本語Schemeインタプリタ「Gino(仮)」 [1/5]](http://www.youtube.com/watch?v=8D4nokXZClA)
+[R5RS完全準拠JVM日本語Schemeインタプリタ「Gino(仮)」 [2/5]](http://www.youtube.com/watch?v=yfVYz-BxXDE)
+[R5RS完全準拠JVM日本語Schemeインタプリタ「Gino(仮)」 [3/5]](http://www.youtube.com/watch?v=VBNcLc9Cp94)
+[R5RS完全準拠JVM日本語Schemeインタプリタ「Gino(仮)」 [4/5]](http://www.youtube.com/watch?v=Na12CyF6I6s)
+[R5RS完全準拠JVM日本語Schemeインタプリタ「Gino(仮)」 [5/5]](http://www.youtube.com/watch?v=U_lmePg3kKw)
+
+John Fremlin氏:
+[teepeedee2: fast IO in Lisp [1/5]](http://www.youtube.com/watch?v=uUymzUdWBuo)
+[teepeedee2: fast IO in Lisp [2/5]](http://www.youtube.com/watch?v=OZLCYXIpydA)
+[teepeedee2: fast IO in Lisp [3/5]](http://www.youtube.com/watch?v=XKDhJIOsuKI)
+[teepeedee2: fast IO in Lisp [4/5]](http://www.youtube.com/watch?v=HkwQTueJPiE)
+[teepeedee2: fast IO in Lisp [5/5]](http://www.youtube.com/watch?v=DzAINMhPK7c)
+
+小黒 直樹氏:
+[Inside c-wrapper [1/7]](http://www.youtube.com/watch?v=JhdhjkTxiSc)
+[Inside c-wrapper [2/7]](http://www.youtube.com/watch?v=HUQcOyck0pQ)
+[Inside c-wrapper [3/7]](http://www.youtube.com/watch?v=e-80QPbmqhM)
+[Inside c-wrapper [4/7]](http://www.youtube.com/watch?v=bVMQzfRMGwE)
+[Inside c-wrapper [5/7]](http://www.youtube.com/watch?v=4EsmcaFgqUk)
+[Inside c-wrapper [6/7]](http://www.youtube.com/watch?v=fIjd3aUySZs)
+[Inside c-wrapper [7/7]](http://www.youtube.com/watch?v=-EpxLnOKXcs)
+
+川合 史朗氏:
+[現場のSchemeとGaucheの進化 [1/6]](http://www.youtube.com/watch?v=K8TR8mLFgf8)
+[現場のSchemeとGaucheの進化 [2/6]](http://www.youtube.com/watch?v=wF9AN2ihIBI)
+[現場のSchemeとGaucheの進化 [3/6]](http://www.youtube.com/watch?v=Q0cSbpB6DLc)
+[現場のSchemeとGaucheの進化 [4/6]](http://www.youtube.com/watch?v=zlJuiS2ojhk)
+[現場のSchemeとGaucheの進化 [5/6]](http://www.youtube.com/watch?v=kADZ5D8md0c)
+[現場のSchemeとGaucheの進化 [6/6]](http://www.youtube.com/watch?v=tPVg_n0XjOw)
+
+**ライトニング・トーク:**
+Yuumi3氏:
+[Scheme on Ruby on Rails](http://www.youtube.com/watch?v=vorq1drqEtY)
+
+源馬 照明氏:
+[WebブラウザをインターネットOSのシェルにしてGaucheと対話する](http://www.youtube.com/watch?v=iJG_kvxzK5M)
+
+mitamex氏:
+[失敗したら会社終わるようなプロジェクトで本当にLispを使ってみた](http://www.youtube.com/watch?v=3WhMKsC8ATA)
+
+IMAKADO氏:
+[Emacs上での携帯絵文字の表示と入力補完](http://www.youtube.com/watch?v=9sFGkSkElnA)

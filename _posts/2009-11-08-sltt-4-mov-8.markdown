@@ -1,0 +1,22 @@
+---
+comments: true
+date: 2009-11-08 19:14:31
+layout: post
+slug: sltt-4-mov-8
+title: 'TT#4 第三部: LT 他言語で作ったWEBページをLispでも!'
+wordpress_id: 524
+categories:
+- tech talk
+---
+
+Shibuya.lispテクニカルトーク第4回 (2009/11/07) makingさんによる「他言語で作ったWEBページをLispでも!」です。
+
+<iframe width="560" height="420" src="http://www.youtube.com/embed/RQM2xO-kKDw" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+[ニコニコ動画版](http://www.nicovideo.jp/watch/sm8746785)
+
+
+発表スライド:
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/2511923" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" > </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/makingx/shibuyalisptt4-lt-weblisp" title="ShibuyalispTT#4 LT 他言語で作ったWEBページをLispでも！" target="_blank">ShibuyalispTT#4 LT 他言語で作ったWEBページをLispでも！</a> </strong> from <strong><a href="http://www.slideshare.net/makingx" target="_blank">makingx</a></strong> </div>
+

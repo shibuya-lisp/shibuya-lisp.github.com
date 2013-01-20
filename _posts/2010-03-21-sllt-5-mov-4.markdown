@@ -1,0 +1,22 @@
+---
+comments: false
+date: 2010-03-21 22:52:41
+layout: post
+slug: sllt-5-mov-4
+title: Clojure+Leiningenで3分Hadoop
+wordpress_id: 616
+categories:
+- tech talk
+---
+
+Shibuya.lispテクニカルトーク第5回 (2010/03/20) makingさんによる「Clojure+Leiningenで 3分Hadoop」です。  
+
+<iframe width="560" height="420" src="http://www.youtube.com/embed/eveoq3nSOeg" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+[ニコニコ動画版](http://www.nicovideo.jp/watch/sm10103501)
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/3480942" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" > </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/makingx/clojureleiningen3hadoop" title="Clojure+Leiningenで3分Hadoop" target="_blank">Clojure+Leiningenで3分Hadoop</a> </strong> from <strong><a href="http://www.slideshare.net/makingx" target="_blank">makingx</a></strong> </div>
+
+関連ブログエントリー/資料:
+[Shibuya.lisp TT#5でLT発表しました。](http://blog.ik.am/entry/view/id/26/title/Shibuya.lisp%20TT%235%E3%81%A7LT%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82/)
+

@@ -1,0 +1,58 @@
+---
+comments: true
+date: 2008-10-18 23:59:43
+layout: post
+slug: sltt-1-tb
+title: '2008/10/18 Shibuya.lisp テクニカルトーク #1 開催!!'
+wordpress_id: 211
+categories:
+- tech talk
+---
+
+本日は、Shibuya.lisp テクニカルトーク #1が無事開催されました!
+参加された皆様、ustreamを視聴して頂いた皆様、ありがとうございます。
+
+**謝辞:**
+今回ECナビさんよりセミナールームを会場としてご提供頂きました。
+素敵な会場をご提供頂いたお蔭様で無事開催することができました。
+ありがとうございます。
+- [ECナビ](http://ecnavi.co.jp/)
+
+今回EY-Office 吉田さんより歓談スペースでのドリンク/お菓子をご提供頂きました。
+お蔭様で、懇親会に参加できなかった参加者との交流も促進できました。
+ありがとうございます。
+- [EY-Office](http://www.ey-office.com/)
+
+このエントリーは、トラックバック用のエントリーです。
+本日のShibuya.lisp テクニカルトーク #1 感想ブログエントリ等を書かれる際には、こちらにトラックバック等を頂けると幸いです。
+**トラックバックURL:**
+http://shibuya.lisp-users.org/2008/10/18/sltt-1-tb/trackback/
+※トラックバックは承認制となっていますので、反映まで時間がかかることがあります。予めご了承下さい。
+
+また、こちらのエントリーにまとめ情報を追記して行く予定です。
+
+**ソーシャルブックマーク:**
+[delicious - shibuya.lisp](http://delicious.com/tag/shibuya.lisp)
+[はてなブックマーク - shibuya.lisp](http://b.hatena.ne.jp/higepon/shibuya.lisp/)
+
+**参加者さんによるShibuya.lisp TT#1まとめページ:**
+hirataraさん: [Shibuya.lisp TT#1まとめ](http://d.hatena.ne.jp/hiratara/20081018)
+emasakaさん: [「Shibuya.lispテクニカルトーク#1」に参加](http://emasaka.blog65.fc2.com/blog-entry-465.html)
+
+**発表者公開資料リンク:**
+ひげぽんさん/開会のことば:[Why Lisp?](http://www.slideshare.net/higepon/why-lisp-shibuyalisp-tech-talk-1-opening-speech-presentation/)
+
+テクニカル・トーク:
+mitamex4u: [50万行オーダーのプロジェクトを俺Lispで書く](http://www.slideshare.net/mitamex4u/20081018-l4u-tech-talk-presentation/)
+NANRIさん:[HyperSpec ひとめぐり](http://raido.sakura.ne.jp/southly/lisp/HyperSpec.pdf)
+藤田善勝さん:[YpsilonVMの開発](http://www.littlewing.co.jp/ypsilon/shibuyalisp/fujita-talk-slide.pdf)
+
+ライトニングトーク:
+yshigeruさん: [世界のナベアツにGaucheで挑戦する](http://www.slideshare.net/yshigeru/gauche-presentation)
+masa.edwさん: [はじめてのScheme](http://www.slideshare.net/masa_edw/shibuyalisp-presentation)
+odaさん: [マイナーRPGはlispで](http://oda.kauda.jp/oda_shibuya_lisp.pdf)
+oskimuraさん: [継続小説(プレゼン用ファイル一式/biwascheme)](http://shibuyalisp.googlegroups.com/web/Presen.tar?gda=oBUtjj4AAACVz1DflMl420k8K5fsYfNvmSobtrndAST7iH07JvJafCBcxAIU66qxOpDcuNFUz7_F2DQxrDXHC5R-bh1hsc-D&gsc=JyRwqgsAAABNuRQjFctnIPbZyov4Sn82)
+小黒さん: [Gaucheのプログラムをもっと速くする方法(ニコニコ動画)](http://www.nicovideo.jp/watch/sm5008319)
+mokeheheさん: [CL/Schemeの組み込み利用](http://docs.google.com/Presentation?id=d45hwtg_4hgxwh4cm)
+momo_devさん: [初心者がgaucheでロボット制御](http://www.momodev.com/works/Shibuya-lisp/TT1/Shibuya-lisp_TT1_LT.pdf)
+ココサブさん: [Reading Gaucheしてみませんか](http://docs.google.com/Presentation?id=dhj32zxf_20fr8xtsss)

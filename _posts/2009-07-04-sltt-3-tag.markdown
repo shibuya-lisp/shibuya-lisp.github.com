@@ -1,0 +1,32 @@
+---
+comments: false
+date: 2009-07-04 17:21:39
+layout: post
+slug: sltt-3-tag
+title: TT#3 反響用URLとソーシャルブックマークのタグの事前告知
+wordpress_id: 419
+categories:
+- tech talk
+---
+
+今回もソーシャルブックマークのタグ名と、ブログの感想エントリ用のトラックバックのURLを決定し告知することとしてみました。
+
+
+### トラックバック用エントリ
+
+
+Shibuya.lisp テクニカルトーク #3 感想ブログエントリのトラックバック先としては下記を予定しています。
+なお、まだエントリは書かれていませんのでご注意下さい。
+**トラックバックURL:**
+http://shibuya.lisp-users.org/2009/07/04/sltt-3-tb/trackback/
+
+
+### ソーシャルブックマーク
+
+
+ソーシャルブックマークのタグは現在のところ大体「shibuya.lisp」で統一されているようですので、これを踏襲したいと思います。
+**ソーシャルブックマーク:**
+[Buzzurl - shibuya.lisp](http://buzzurl.jp/tag/shibuya.lisp)
+[delicious - shibuya.lisp](http://delicious.com/tag/shibuya.lisp)
+[はてなブックマーク - shibuya.lisp](http://b.hatena.ne.jp/t/shibuya.lisp)
+[livedoorクリップ - shibuya.lisp](http://clip.livedoor.com/tag/shibuya.lisp)
