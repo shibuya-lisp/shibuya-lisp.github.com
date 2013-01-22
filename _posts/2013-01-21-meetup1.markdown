@@ -1,29 +1,36 @@
 ---
+comments: false
 date: 2013-01-21 04:30:00
 layout: post
-title: 'Lisp Meet Up presented by Shibuya.lisp #1'
+slug: meetup1
+title: Lisp Meet Up presented by Shibuya.lisp#1
 categories:
-- 未分類
+- Meet Up
 tag:
 - Meet Up
 ---
 
 ## 概要
+
 Shibuya.lisp主催によるMeet Upイベントを開催します。
 
 ## 日時
+
 2013年1月22日 20:00 ～ 22:00
 
 ## 場所
-東京都港区六本木7の3の22  
+
+東京都港区六本木7の3の22
 六本木やまうちビル4F
 
-[GoogleMap](http://www.google.co.jp/maps?q=35.6654748,139.7278372(東京都港区六本木７の３の２２)&z=17)
+[GoogleMap](http://www.google.co.jp/maps?q=35.6654748,139.7278372&z=17)
 
 ## 参加登録
+
 http://atnd.org/events/36195
 
 ## 詳細
+
 月１定期開催することでLispユーザの交流の場を作り、Shibuya.lisp TTの開催
 へと繋げていきたいと考えています。会場では無線LAN接続でインターネットが
 利用できるので、この機会に処理系のインストールから始めるというのもアリです。
