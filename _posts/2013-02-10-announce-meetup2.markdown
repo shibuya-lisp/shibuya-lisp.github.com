@@ -27,7 +27,7 @@ Shibuya.lisp主催による第2回Meet Upイベントを開催します。
 
 ## 参加登録
 
-http://atnd.org/events/36847
+[http://atnd.org/events/36847](http://atnd.org/events/36847)
 
 ## 詳細
 
@@ -46,4 +46,4 @@ Shibuya.lisp主催による、第2回Meet Upイベントを開催します。
 遅れて来た方はドアをノックしてください。
 
 前回のMeet Upの様子や発表資料などは以下のサイトをご参照下さい。
-http://shibuya-lisp.github.com/Meet%20Up/2013/01/27/repmeetup1/
+[http://shibuya-lisp.github.com/Meet%20Up/2013/01/27/repmeetup1/](http://shibuya-lisp.github.com/Meet%20Up/2013/01/27/repmeetup1/)
