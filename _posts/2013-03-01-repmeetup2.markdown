@@ -1,0 +1,40 @@
+---
+comments: false
+date: 2013-03-01 10:30:00
+layout: post
+slug: meetup2
+title: Lisp Meet Up presented by Shibuya.lisp #2 が開催されました。
+categories:
+- Meet Up
+tag:
+- Meet Up
+---
+
+2月19日(火)、Shibuya.lisp主催によるLisp Mee Up第２回が開催されました。
+ご参加頂いた11名の皆さん、どうもありがとうございました。
+
+### 全体の流れ
+
+20時に会場に集合して参加者の簡単な自己紹介をし、予定されていた1件の発表がありました。
+話題の流れで更に2件追加の発表があり、22時半ごろに解散となりました。
+参加者全員で話題を共有しながら、SchemeとCommon Lispの話題を行ったり来たりしていました。
+
+### 会場
+
+前回のMeet Upと同じく、六本木やまうちビル4Fを会場として使用しました。
+室内には相変わらず木が這っていたものの、今回はソファーやプロジェクター用のスクリーンが
+追加されたので前回よりは良い環境になっていたと思います。
+
+### 次回のLisp Meet Upについて
+
+次回はClojureを話題の中心に据えて3月26日(火)に開催する予定です。
+Lispについて発表したいことがある方、Lisperに現実で出会ったことがないとお嘆きの方、
+あるいはLispについての話で盛り上がってみたい方、
+その他Lisp/Lisperに興味のある方は是非参加をご検討ください。
+
+### 発表資料
+
+Common Lispで日本語シンボルを使う話。
+<iframe src="http://www.slideshare.net/slideshow/embed_code/16736669" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/samugari/japanese-symbols" title="Before LISPs Just Before the Past #2 ~ Japanese symbols ~" target="_blank">Before LISPs Just Before the Past #2 ~ Japanese symbols ~</a> </strong> from <strong><a href="http://www.slideshare.net/samugari" target="_blank">samugari</a></strong> </div>
+
+[#:g1: 日本語プログラミングとLISP](http://g000001.cddddr.org/1202228320)
