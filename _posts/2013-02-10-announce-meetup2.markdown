@@ -3,7 +3,7 @@ comments: false
 date: 2013-02-10 13:30:00
 layout: post
 slug: meetup2
-title: Lisp Meet Up presented by Shibuya.lisp#2
+title: Lisp Meet Up presented by Shibuya.lisp &#x23;2
 categories:
 - Meet Up
 tag:

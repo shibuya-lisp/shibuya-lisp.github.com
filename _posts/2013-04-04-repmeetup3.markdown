@@ -3,7 +3,7 @@ comments: false
 date: 2013-04-04 10:30:00
 layout: post
 slug: meetup3
-title: Lisp Meet Up presented by Shibuya.lisp #3 が開催されました。
+title: Lisp Meet Up presented by Shibuya.lisp &#x23;3 が開催されました。
 categories:
 - Meet Up
 tag:
