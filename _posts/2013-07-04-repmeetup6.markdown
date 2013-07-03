@@ -1,0 +1,50 @@
+---
+comments: false
+date: 2013-07-04 00:20
+layout: post
+slug: meetup6
+title: Lisp Meet Up presented by Shibuya.lisp &#x23;6 が開催されました。
+categories:
+- Meet Up
+tag:
+- Meet Up
+---
+
+去る6月27日(木)、第6回LispMeetUpが開催されました。
+今回は募集段階で参加登録をいただいていたのが8名、実際の参加が5名と、MeetUp初の1桁人数となりました。
+事前に告知されていた発表が１つもなかった点や、他の魅力的なイベントと日時が被ってしまったのが原因かと考えています。
+
+参加者の皆さん、お疲れさまでした。
+
+### 発表について
+事前の告知はありませんでしたが、今回は2つの発表がありました。
+1つ目はchikuさんの「vim as a Clojure font end」と題した発表でした。
+VimでClojureを使う環境を整備するのに随分苦労するので、いくつかの方法を試して手順をまとめるという内容でした。
+
+2つ目はS.Asaharaさんから、alephというnon-blockingなネットワークプログラミングのための
+フレームワークについて紹介していただきました。
+BlockingとNon-blockingの違いを具体的なコードや挙動を交えて説明し、
+最終的にalephを用いて非同期な処理をするコードを動かす、というインパクトの大きい発表で好評でした。
+
+発表後は、Light TableがClojure対応してるとか、Leinigenのuberjar便利とか、Javaの挙動をちょっと
+調べるためのREPLとしてClojureが便利、といったことが話題に上りました。
+Clojureを本格的に使おうかなと思わせる話題があふれていたと思います。
+
+### 発表資料
+今回の発表のスライドは以下で公開されています。
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/23556559" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/samugari/vim-asaclojurefrontend" title="Before LISPs Just Part of the Past ~#4 vim as a clojure front end ~" target="_blank">Before LISPs Just Part of the Past ~#4 vim as a clojure front end ~</a> </strong> from <strong><a href="http://www.slideshare.net/samugari" target="_blank">samugari</a></strong> </div>
+
+<br/>
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/23602115" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/shinnosukeasahara/aleph-23602115" title="Non-blocking “Scalable” Network Programming with “aleph (by Z.Tellman)”" target="_blank">Non-blocking “Scalable” Network Programming with “aleph (by Z.Tellman)”</a> </strong> from <strong><a href="http://www.slideshare.net/shinnosukeasahara" target="_blank">Shinnosuke Asahara</a></strong> </div>
+
+<br/>
+
+### 次回のMeetUp
+次回MeetUpは7月第4**月**曜日に、Common Lispをテーマとして開催を予定しています。
+場所は今回と同じく渋谷マークシティウェストです。
+
+Common Lispについて発表したいことがある方、Lisperに現実で出会ったことがないとお嘆きの方、
+あるいはLispについての話で盛り上がってみたい方、
+その他Lisp/Lisperに興味のある方は是非参加をご検討ください。
