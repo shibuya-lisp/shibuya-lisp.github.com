@@ -1,0 +1,48 @@
+---
+comments: false
+date: 2013-09-05 21:00
+layout: post
+slug: meetup8
+title: Lisp Meet Up presented by Shibuya.lisp &#x23;8 が開催されました。
+categories:
+- Meet Up
+tag:
+- Meet Up
+---
+
+8月26日(月)に、8回目となるLisp Meet Upが開催されました。
+
+全5名の参加者の皆さん、お疲れさまでした。
+
+### 発表
+
+chikuさんがLisp風の構文を持つHarlanという言語の紹介をしました。HarlanはOpenCLへとコンパイルされる言語で、コンパイラはChez Schemeという商用Scheme処理系で書かれています。値を返すのにreturnが必要だったり、マクロが定義できなかったり、Lispというよりはparenの多いC言語という印象ですが、データ並列な並列処理を簡単に記述できるので高性能計算分野の人は注目に値するのではないでしょうか。
+
+発表資料はSlideShareで公開されています。
+<iframe src="http://www.slideshare.net/slideshow/embed_code/25660699" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/samugari/introduction-toharlan" title="Introduction to Harlan" target="_blank">Introduction to Harlan</a> </strong> from <strong><a href="http://www.slideshare.net/samugari" target="_blank">samugari</a></strong> </div>
+
+### ライブコーディング
+
+発表後はKyoto.Lisp TT #2の簡単なレポートがあった後、1時間ほど時間が余ったのでライブコーディングの時間としました。テーマはsedやawkを使うシーンでLispを使うとしたらどうやるのか？ということで、ls -lの出力を入力として、2列目の値が偶数のものと奇数のものでそれぞれについて5列目の値の総和を求める、という例題を扱いました。
+
+Scheme版はkazh98さんがコーディングしました。正規表現オブジェクトを関数のように適用できる点が面白かったです。処理系組み込みの正規表現はとても便利そうです。kazh98さんのコードはgistにて公開されています。</br>
+<a href="https://gist.github.com/kazh進数3ケタ(\\ddd)で表示する98/6349366">https://gist.github.com/kazh進数3ケタ(\\ddd)で表示する98/6349366</a>
+
+Common Lisp版はchikuさんがコーディングしました。</br>
+・ atoiってCLでなんだっけ？ -> 他の参加者が教えてくれる</br>
+・ Quickloadがいつものやり方でロードできない -> 他の参加者が別の方法を教えてくれる</br>
+といった感じでいかにもライブコーディングな雰囲気でした。
+また、自作ユーティリティへの依存が大きかった点も特徴的でした。chikuさんのコードは使用された自作ユーティリティとともにgistで公開されています。</br>
+<a href="https://gist.github.com/chiku-samugari/6363435">https://gist.github.com/chiku-samugari/6363435</a>
+
+### 懇親会
+
+時間の関係でClojureについてはコーディングせず、そのまま全員で懇親会へと流れました。
+Raspberry Piで様々なCommon Lisp処理系を動かす話や、
+RacketはSchemeじゃなくてRacketなんだ、といったLispの話題の他に、ライブコーディングの
+例題はawkならどうなるのかというようなプログラミング全般に話題が及んでいて楽しい懇親会でした。
+
+### 次回のMeet Up
+
+次回のMeet UpはClojureをテーマに、９月下旬の開催を予定しています。
+詳細は決まり次第Shibuya.lispのメーリングリストやTwitterにて告知させて頂きます。
