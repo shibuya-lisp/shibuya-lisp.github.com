@@ -1,0 +1,67 @@
+---
+comments: false
+date: 2013-10-08 12:20
+layout: post
+slug: meetup9
+title: Lisp Meet Up presented by Shibuya.lisp &#x23;9 が開催されました。
+categories:
+- Meet Up
+tag:
+- Meet Up
+---
+
+9月24日(火)に、9回目となるLisp Meet Upが開催されました。
+涼しくて過ごしやすい素晴らしい夜にご参加頂いた全11名の皆さん、お疲れさまでした。
+
+### 発表
+
+chikuさんから関数の部分適用と合成を行うPAPPLYというマクロについて発表がありました。
+PAPPLYやその亜種の使い方、実装のキーポイントを説明し、最終的に `#'(` の後ろにLAMBDA以外の
+シンボルを書いた場合の挙動を拡張する、という内容でした。
+結果的にはClojureの`#()`と似た動作の構文になっていました。
+
+発表資料及びPAPPLYのソースは、それぞれSlide ShareとGithubで公開されています。
+<iframe src="http://www.slideshare.net/slideshow/embed_code/26483449" width="342" height="291" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/samugari/partial-application" title="Before LISPs Just Part of the Past ~#7 Partial Application~" target="_blank">Before LISPs Just Part of the Past ~#7 Partial Application~</a> </strong> from <strong><a href="http://www.slideshare.net/samugari" target="_blank">samugari</a></strong> </div>
+
+<a href="https://github.com/chiku-samugari/papply">PAPPLYのソース</a>
+
+これに続いて、fanannanさんからClojure Cookbookの和訳版について簡単な報告がありました。
+が、結局見送りになったと後日報告がありました。
+
+### ライブコーディング
+後半は1時間ほどライブコーディングの時間になりました。
+今回のお題はスペースを区切り文字とする標準的なword countでした(case-insensitive)。
+
+#### Clojure版
+1つ目はClojure版で、potix2さんがコーディングしました。`->>`マクロの利用、Java関数の呼び出し、
+`fn`での`[[]]`による分配束縛、`#()`と`%`の利用といった、Clojureの機能が満載の内容でした。
+`->>`マクロについては会場のCommon Lispユーザから「展開形が見たい」とか、
+「データの流れが普段と逆な点が見辛い」など、いろいろな反応がありました。
+
+コードはgistにて公開されています。<br/>
+<a href="https://gist.github.com/potix2/6693239">Clojure版word coundのソース</a>
+
+#### Common Lisp版
+2つ目はCommon Lisp版で、chikuさんがコーディングしました。vimからSWANKに接続できないというトラブルに見舞われたため、
+以前のMeet Upで紹介された「screenのウィンドウにコマンドを送りつける」という方法で簡易的な対話環境を構築して
+コーディングしていました。正規表現ライブラリCL-PPCREとハッシュテーブルを使うわかりやすいコードですが、
+case-insensitiveはハッシュテーブルの比較関数にEQUALPを指定することで実現しています。
+
+自前のライブラリから使った関数と共に、コードをgistで公開しています。<br/>
+<a href="https://gist.github.com/chiku-samugari/6741448">Common Lisp版word countのソース</a>
+
+#### Racket版
+3つ目はScheme...ではなくRacket版をkazh98さんがコーディングしました。名前はprintfなのにフォーマット指示子はformatと同じというちょっと変わったものが出てきたりして、「RacketはRacket」ということを実感する内容でした。
+
+コードはgistにて公開されています。<br/>
+<a href="https://gist.github.com/kazh98/6693578">Racket版word countのソース</a>
+
+### 懇親会
+懇親会では実際にLispを何に使っているのか、Meet Upの運営状況どうなのという話題から始まり、後半は下北沢の話になりました。
+
+次回のMeet Up
+============
+
+次回はCommon Lispをテーマに、10/22(火)の開催を予定しています。
+参加登録は以下のページから。</br>
+<a href="http://atnd.org/events/44418">Lisp Meet Up presented by Shibuya.lisp #10</a>
