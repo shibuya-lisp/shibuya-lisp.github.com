@@ -1,0 +1,63 @@
+---
+comments: false
+date: 2013-11-10 07:20
+layout: post
+slug: meetup10
+title: Lisp Meet Up presented by Shibuya.lisp &#x23;10 が開催されました。
+categories:
+- Meet Up
+tag:
+- Meet Up
+---
+
+10月22日(火)に、10回目となるLisp Meet Upが開催されました。
+ご参加頂いた全15名の皆さん、お疲れさまでした。
+
+### 発表
+
+今回は参加人数が多く、また初めてご参加いただく方が半数近くいらっしゃたので、
+参加者の自己紹介から初めました。Clojureを使っているという人が多かったのが印象に残っています。
+
+続いて告知通り3件の発表がありました。
+κeenさんからは「Common Lispでビッグデータを作ろう」と題して、Common Lispの
+ロギングライブラリlog4clを用いて吐き出したログデータを、Rubyで書かれたfluentdで収集し、
+解析をするという内容でした。log4cl全体の概要と、具体的な利用方法をデモを交えて説明して
+いくという形式で、log4clを用いた場合の性能劣化についての言及もありました。
+説明に用いられたコードはコードは
+<a href="https://github.com/KeenS/log4cl-fluentd">Githubにて公開</a>されているようです。
+
+佐野さんからは、International Lisp Conference(ILC)の詳しい紹介がありました。
+日中はLispについての発表を聞いて、夜は夜で懇親会でもLispの話をする、という雰囲気なの
+だそうです。2014年のILCについてはカナダ・モントリオールにて8月か10月に開催される方向
+ですが、日本からの参加者が減る見込みなのでどうにかしたい、とのことでした。
+また、11/22に行われる
+<a href="http://www.msi.co.jp/userconf/2013/index.html">
+数理システムのイベント
+</a>の紹介もありました。
+なお、ここではLispといえばCommon Lispのことを指すそうです。
+
+発表の3つ目はchikuさんから、「ずぼらにテストする話」と題して２つのアイディアについての発表がありました。
+
++ 関数の定義を変更した際に以前の定義を保存して好きなタイミングで以前の定義を使って評価する
++ 関数の適用の際に引数と結果を保存して関数定義を更新する際に自動でテストを走らせる
+
+どちらも関数定義構文に細工する必要があるので、これらを同時に行なうインターフェースや、
+一時的に古い関数定義を使って評価を行なう構文などを盛り込んでRindohという名前で実装中とのことです。
+
+発表資料はSlideShareにて公開されています。
+<iframe src="http://www.slideshare.net/slideshow/embed_code/27456798" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/samugari/before-lisps-rindoh" title="Before LISPs Just Part of the Past ~#8 Rindoh~" target="_blank">Before LISPs Just Part of the Past ~#8 Rindoh~</a> </strong> from <strong><a href="http://www.slideshare.net/samugari" target="_blank">samugari</a></strong> </div>
+
+実装が完了していないのでソースは未公開です。
+今回は動機やアイディアの説明だったので、実装して使ってみた所感をまたMeet Upで報告したいとのことでした。
+
+最後に、澤田さんからClojure Cookbook(原著および和訳版)の現状についてのお話がありました。
+
+### 懇親会
+
+時間の関係でライブ・コーディングはせずに、懇親会になりました。
+Common Lisp、Scheme、Racket等、Lisp関連の話題に終始していました。
+
+### 次回のMeet Up
+
+次回はSchemeをテーマに、11月下旬の開催を予定しています。
+日程などが決まり次第、Shibuya.lispのMLやTwitterで告知させていだきます。
