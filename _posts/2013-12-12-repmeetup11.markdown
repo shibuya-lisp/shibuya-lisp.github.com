@@ -1,0 +1,48 @@
+---
+comments: false
+date: 2013-12-12 23:00
+layout: post
+slug: meetup11
+title: Lisp Meet Up presented by Shibuya.lisp &#x23;11 が開催されました。
+categories:
+- Meet Up
+tag:
+- Meet Up
+---
+
+11/27(水)に第11回Lisp Meet Upが開催されました。ご参加頂いた9名の皆さま、お疲れさまでした。
+
+### 発表
+
+今回は2件の発表がありました。_κeen_さんからは、「Makefile書けない人がmake4.0触ってみた」というタイトルで、MakefileからGuileを呼び出す機能についてのレポートしていただきました。この機能を使うにはmakeを--with-guileオプション付きでビルドし、さらにGuileをインストールして置く必要があります。Makefile中でdefineなどで定義した関数を、
+
+    $(guile S式)
+
+という形式で外部のGuileで評価するもので、Guileの機能はフルに使えるとのことでした。
+
+発表資料はSlideShareで、デモに用いられたソースコードはGithubで、それぞれ公開されています。
+<iframe src="http://www.slideshare.net/slideshow/embed_code/28661586" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/blackenedgold/lispmeetup11" title="Lispmeetup11" target="_blank">Makefile書けない人がMake4.0触ってみた</a> </strong> from <strong><a href="http://www.slideshare.net/blackenedgold" target="_blank">blackenedgold</a></strong> </div>
+
+[デモに用いられたソースコード](https://github.com/KeenS/Shibuya.lisp-LispMeetUp-11)
+
+2件目の発表は_kazh98_さんから、「What Does R7RS Change Programming in Scheme?」と題してこのほど批准されたR7RS-smallについて、R5RSとの違いに注目した発表でした。発表者について、告知段階ではkuro\_m88さんとしていましたが、残念ながら都合が悪くなったとのことで_kazh98_さんが代打を努めました。R7RSではRecord type, Library System, Exceptionの3点がR5RSとの大きな違いとなっているそうです。ExceptionについてはSRFI-34を取り込んで標準とされました。この他、シンボルがデフォルトでcase sensitiveになる、call-with-current-continuationの本名がcall/ccになる、引数の個数で実装を分けるcase lambdaという構文がサポートされる、といった変更があったようです。
+
+発表資料の修正版がSlideShareにて公開されています。
+<iframe src="http://www.slideshare.net/slideshow/embed_code/28668240" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/kazh98/what-does-r7rs-change-programming-in-scheme" title="What Does R7RS Change Programming in Scheme?" target="_blank">What Does R7RS Change Programming in Scheme?</a> </strong> from <strong><a href="http://www.slideshare.net/kazh98" target="_blank">Kazuhiro Hishinuma</a></strong> </div>
+
+なお、kuro\_m88さんは[meshというR7RS-small互換処理系](https://github.com/meshmol/mesh)を実装中とのことです。
+
+発表後、一時間ほど時間があったのでライブコーディングの時間になりました。今回のお題は与えられた浮動小数点数の列から頻度表とヒストグラムを作る、というものでした。Common Lisp版をchikuさんがコーディングしましたが、細かい仕様は進めながら決めることになり、Common Lisp版のみで時間を使いきりました。頻度表についてはFLOOR関数のoptional引数を使うことで簡便に実装され、一方ヒストグラムの方はFORMATの引数について参加者からいろいろなアイディアが出され、結果3種類が実装されました。
+
+コードはgistで公開されています。
+[Common Lisp版頻度表のソースコード](https://gist.github.com/chiku-samugari/7762038)
+
+### 懇親会
+
+ライブコーディング後は会場近くのお店で懇親会をしました。各人のLispとの馴れ初めを
+切り口に、後半はコンピュータとの馴れ初めの話になりました。
+
+### 次回のMeet Upについて
+
+次回はClojureをテーマに、12月18日(水)に開催予定です。
+http://atnd.org/events/46201
