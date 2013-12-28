@@ -1,0 +1,38 @@
+---
+comments: false
+date: 2013-12-29 08:30
+layout: post
+slug: meetup12
+title: Lisp Meet Up presented by Shibuya.lisp &#x23;12 が開催されました。
+categories:
+- Meet Up
+tag:
+- Meet Up
+---
+
+12/月18日(水)に、2013年最後・第12回目となるLisp Meet Upが開催されました。
+ご参加頂いた11名の皆さま、お疲れさまでした。
+
+### 発表
+今回は事前に告知された発表はありませんでしたが、4件の発表がありました。
+
+1件目はfreakdaさんから、「ClojureScriptを使ってみた(序)」と題した発表でした。前半はClojureScriptを使ってみての所感や嵌ったポイントについて、JavaScriptのちょっと変わった特徴などを交えながらのお話でした。後半はフレームワークであるBackbone.jsとClojureScriptを連携させる中で手間取った点などについてでしたが、この辺りはまだまだ模索中とのことで、題に(序)ともあるように、いつかは続編をやるおつもりとのことでした。
+
+2件目はchikuさんから「Cloaking Printing」と題して、pretty printingの邪魔をせずにpretty printingに余分な文字を出力する方法について、その目的と実装についての発表でした。また、Clojureを使ってみてのCommon Lispユーザとしての感想についても簡単に言及されていました。
+発表資料の修正版がSlideShareで公開されています。
+<iframe src="http://www.slideshare.net/slideshow/embed_code/29395241" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/samugari/before-lisps-just-cloaking-printingpub" title="Before LISPs just Part of the Past ~ #9 cloaking printing ~" target="_blank">Before LISPs just Part of the Past ~ #9 cloaking printing ~</a> </strong> from <strong><a href="http://www.slideshare.net/samugari" target="_blank">samugari</a></strong> </div>
+
+コードについてはclojure.pprintの一部を変更して実装したので現状未公開とのことです。
+
+3件目はあんちべさんから、データマイニング分野でもClojureは使用に耐えるという内容のLTでした。LTという体でしたが、RやPython、あるいはSPSSなどが主流のデータマイニング分野でなぜClojureを使うのかという動機に始まり、データマイニングで用いられるいくつかのアルゴリズム(決定木/random forest/k平均法など)やその目的も説明しつつ、それらに使えるClojureのライブラリ(incanter, clj-ml)を紹介するという実践的で充実した内容でした。
+
+4件目はympbycさんから、ClojureScriptのためのウェブアプリケーションフレームワークであるWebFUIの後継として開発されているCastorocaudaや、S式の可視化ツールであるS-exploration、SmallTalk風の構文を持つaltJSであるLittle Small Scriptの紹介がありました。
+いずれもympbycさんご自身が開発しており、ソースコードは<a href="https://github.com/ympbyc">Githubで公開</a>されています。
+
+### 懇親会
+
+4件の発表で時間を使い切り、その後は会場近くの居酒屋で懇親会となりました。懇親会では最近定番の質問となりつつある「TTやらないんですか？」を初めとしてコミュニティの活動や盛り上がりについての話題の他、海外でのClojureコミュニティの雰囲気なども話題に上がりました。後半は一部で哲学的な話題に流れたりしていたようです。
+
+### 次回のMeet Upについて
+次回はCommon Lispをテーマに、1月23日の開催を予定しています。
+詳細が決まり次第またMLやTwitterにて告知させて頂きます。
