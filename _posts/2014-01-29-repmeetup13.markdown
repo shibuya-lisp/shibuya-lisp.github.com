@@ -1,0 +1,57 @@
+---
+comments: false
+date: 2014-01-29 20:30
+layout: post
+slug: meetup13
+title: Lisp Meet Up presented by Shibuya.lisp &#x23;13 が開催されました。
+categories:
+- Meet Up
+tag:
+- Meet Up
+---
+
+1月23日(木)に、13回目となるLisp Meet Upが開催されました。ご参加頂いた19名の皆さま、お疲れさまでした。
+
+### 発表
+主催からの挨拶と参加者の自己紹介の後、告知されていた２件の発表がありました。
+
+１件目は深町さんから、「New O/R Mapper for Common Lisp」と題して、ご自身が作っているIntegralというO/R Mapperについての発表でした。Common LispにはPostmodernやCLSQLというO/R Mapperがありますが、これらはテーブルを表現しているクラスの定義を更新してもテーブルが更新されないので、カラムの追加や型の変更を行なうにはテーブルの再作成や変更を行なうSQL文を自分で書いて行なう必要があります。
+
+既存のO/R Mapperのこのような問題に対する解決策として、Integralでは変更されたクラス定義からテーブルに対して必要な変更を行なうSQL文を構築・実行する関数が提供されています。さらに、クラスを再定義した際に自動でこの関数を適用するモードや、既存のテーブルからクラスを生成する機能も用意されているそうです。</br>
+発表ではこのような機能面での説明に加え、MOPの利用方法やマイグレーションを行なうSQL文の構築方法など、実装面についての言及もあり充実した内容でした。</br>
+
+<a href="https://github.com/fukamachi/integral">IntegralのソースコードはGithub</a>で、<a href="http://www.slideshare.net/fukamachi/lisp-meet-up-presented-by-shibuyalisp-13">発表のスライドはSlideshare</a>で、それぞれ公開されています。
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/30362150" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/fukamachi/lisp-meet-up-presented-by-shibuyalisp-13" title="Integral - New O/R Mapper for Common Lisp" target="_blank">Integral - New O/R Mapper for Common Lisp</a> </strong> from <strong><a href="http://www.slideshare.net/fukamachi" target="_blank">fukamachi</a></strong> </div>
+
+続いてκeenさんから、「CIM – Common Lisp Implementation Managerを作りました」と題して、Common Lisp処理系のインストールと管理を行なうCIMの紹介がありました。CIMはBourne Shell Scriptで書かれており、以下の３つのコマンドで構成されています。
+
++ Common Lisp処理系のインストール・管理を行なうcim
++ Common Lispプログラムをスクリプトとして実行するcl
++ Quicklispへのインターフェースとなるql
+
+同じ処理系の複数のバージョンのインストール・管理に加え、スクリプトを処理系ごと(あるいは処理系のバージョンごと)に実行できたり、ワンライナーが使えたりと、Common Lisperのための強力なコマンドラインツールとなっています。
+現状では達成されていないものの、インストール直後のFreeBSDで動作することを目標としており、Bourne Shell Scriptで実装を進めているのもこの点が理由だそうです。
+
+<a href="https://github.com/KeenS/CIM">CIMのソースコードはGithub</a>で、<a href="http://www.slideshare.net/blackenedgold/cim-common-lisp-implementation-manager">発表のスライドはSlideshare</a>で、それぞれ公開されています。
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/30338391" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/blackenedgold/cim-common-lisp-implementation-manager" title="CIM - Common Lisp Implementation Managerを作りました" target="_blank">CIM - Common Lisp Implementation Managerを作りました</a> </strong> from <strong><a href="http://www.slideshare.net/blackenedgold" target="_blank">blackenedgold</a></strong> </div>
+
+深町さんとκeenさんは共にご自身のブログに今回のMeet Upの参加レポートを書いているので、合わせて参照すると良いと思います。
+
++ 深町さん：<a href="http://blog.8arrow.org/entry/2014/01/24/075236">Lisp Meet Up #13 に参加しました</a>
++ κeenさん：<a href="http://keens.github.io/blog/2014/01/24/lisp-meet-up-number-13/">Lisp Meet Up #13でLTしてきました</a>
+
+また、参加者の一人であるayato\_pさんも参加レポートを書かれているので、合わせてご紹介させて頂きます。
+
++ ayato\_pさん：<a href="http://ayato.hateblo.jp/entry/20140124/1390490620">Lisp Meet Up presented by Shibuya.lisp #13 に参加してきた。</a>
+
+### 懇親会
+
+発表の後は一度休憩となり、休憩の間に自然に４つくらいのグループに別れてそれぞれ雑談で盛り上がったため、そのまま雑談タイムになりました。
+
+終了後は会場近くの居酒屋で懇親会をしました。最近Lispでどんなものを書いているのかとか、Lispの現状と今後とかいったこと、あるいは昔はどんな言語を使っていたかなど、プログラミング全般の話題が中心でした。
+
+### 次回のMeet Upについて
+次回はSchemeをテーマに、２月下旬の開催を予定しています。
+詳細が決まり次第またShibuya.lispのMLやTwitterにて告知させて頂きます。
