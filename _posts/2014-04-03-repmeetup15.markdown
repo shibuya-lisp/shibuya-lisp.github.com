@@ -1,0 +1,41 @@
+---
+comments: false
+date: 2014-04-03 20:50
+layout: post
+slug: meetup15
+title: Lisp Meet Up presented by Shibuya.lisp &#x23;15 が開催されました。
+categories:
+- Meet Up
+tag:
+- Meet Up
+---
+
+3月20日(水)に、15回目となるLisp Meet Upが開催されました。
+ご参加頂いた14名の皆さま、お疲れさまでした。
+
+### 発表
+
+主催からの挨拶と参加者の自己紹介から始めました。自己紹介に続いて、事前に告知された3件の発表、さらに飛び入りで1件の発表がありました。
+
+1つめの発表はfreakdaさんから、「visualvmでclojureアプリケーションをプロファイリング」と題して、JVMのためのプロファイリングツールであるjvisualvmを用いたClojureコードのプロファイリング入門といった内容でした。
+<iframe src="http://www.slideshare.net/slideshow/embed_code/32625643"
+width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;
+border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/KeisukeFukuda/jvisualvmclojure-shibuyalisp-meetup-15" title="jvisualvmでClojureアプリケーションをプロファイリング @ shibuya.lisp meetup #15" target="_blank">jvisualvmでClojureアプリケーションをプロファイリング @ shibuya.lisp meetup #15</a> </strong> from <strong><a href="http://www.slideshare.net/KeisukeFukuda" target="_blank">Keisuke Fukuda</a></strong> </div>
+
+2つ目の発表はhalcat0x15aさんの「型推論器とcore.logic」と題した発表でした。初めにClojureの論理プログラミングライブラリであるcore.logicや論理プログラミングの紹介があり、その後core.logicを用いてhalcat0x15aさんが実装している型推論器typelogicの紹介と解説がありました。Clojureの多くの関数が実装上、引数の型としてObjectを使っている点が型推論をする場合に大きな妨げになっているとのことでした。
+<a href="https://github.com/halcat0x15a/typelogic">typelogicのソースコードはGithubにて</a>公開されています。
+
+3つ目の発表はTOYOZUMIさんから、「Common Lisp最適化入門」と題した発表でした。TIMEマクロを用いた測定、DISASSEMBLE、型指定や宣言といった入門的内容から始まり、後半はご自身で作っている<a href="https://github.com/TOYOZUMIKouichi/L4S">L4S</a>という高速処理用のユーティリティ集や、Common LispでSSE命令を扱うための<a href="https://github.com/angavrilov/cl-simd">CL-SIMD</a>というライブラリの紹介がありました。CL-SIMDは本家ではSSE2までしか使わないのに対して、ご自身で<a href="https://github.com/TOYOZUMIKouichi/cl-simd">拡張して</a>SSE3.1やSSE4の命令が使われるようにしており、性能が向上することは確認している、とのことでした。
+<iframe src="http://www.slideshare.net/slideshow/embed_code/32559118" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/toyozumiKouichi/common-lisp-32559118" title="Common lisp最適化入門" target="_blank">Common lisp最適化入門</a> </strong> from <strong><a href="http://www.slideshare.net/toyozumiKouichi" target="_blank">Toyozumi Kouichi</a></strong> </div>
+
+今回は表題通りの入門編でしたが、今後数回にわたってCommon Lispにおける最適化に関してお話いただけるとのことでした。
+
+最後にtfukushimaさんから、飛び入りで「Om and ClojureScript」と題した発表がありました。最近のJavaScriptによるフロントエンド構築で使われるフレームワークやライブラリの簡単な紹介の後、ReactのClojureScriptインターフェースであるOmについて詳しく紹介するという内容でした。
+
+### 懇親会
+
+発表4件で時間を使い切り、閉場後に近くの居酒屋で懇親会となりました。懇親会ではhalcat0x15aさんのtypelogicは実際にどういう使い方を想定しているのかといった話題に始まり、型やTaPLの話題に発展しました。他にもLispのシンボルの話、あるいは5月にパリで開催されるELS2014なども話題に上がり、みんながLispの話をしている楽しい懇親会でした。
+
+### 次回のMeet Upについて
+
+次回はCommon Lispをテーマに4月22日(火)の開催を予定しています。
