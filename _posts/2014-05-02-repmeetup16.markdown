@@ -1,0 +1,47 @@
+---
+comments: false
+date: 2014-05-02 01:30
+layout: post
+slug: meetup16
+title: Lisp Meet Up presented by Shibuya.lisp &#x23;16 が開催されました。
+categories:
+- Meet Up
+tag:
+- Meet Up
+---
+
+4月22日(火)に１６回目となるLisp Meet Upが開催されました。
+ご参加頂いた14名の皆さま、お疲れさまでした。
+
+### 発表
+
+いつも通り主催からの挨拶と参加者の自己紹介から始めました。今回は新規参加者が比較的多かった印象です。就職して東京に来たので参加してみたという方が複数いて、なるほど年度が変わったのだなと感じました。
+事前に２件の発表が告知されていましたが、このうち1件については発表者の体調不良のため残念ながらキャンセルされました。この他、1件飛び入りの発表がありました。
+
+1つ目の発表はκeenさんから、「CL21で色々なデータ構造を実装してみようとした」と題した発表でした。CL21は新しい言語で使用例がないので、使用例を作るべく発表に臨まれたそうです。CL21でヒープを実装し、さらにCL21が提供する抽象化層であるabstract-sequenceクラスを継承してキューを、abstract-hash-tableクラスを継承して平衡二分木をそれぞれ実装してみての感想や実装上の留意事項、という内容でした。今後はこれらの他に優先度付きキューや双方向の連結リスト、集合、素集合などのデータ構造を実装する予定とのことです。
+発表資料はSlideshareにて公開されています。
+<iframe src="http://www.slideshare.net/slideshow/embed_code/33794330" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/blackenedgold/lisp-meetup16" title="CL21で色々なデータ構造を実装してみようとした" target="_blank">CL21で色々なデータ構造を実装してみようとした</a> </strong> from <strong><a href="http://www.slideshare.net/blackenedgold" target="_blank">blackenedgold</a></strong> </div>
+
+κeenさんはご自身のブログで今回のMeet Upについて書かれているので、合わせて紹介させて頂きます。
+<a href="http://keens.github.io/blog/2014/04/25/lisp-meet-up-number-16/">http://keens.github.io/blog/2014/04/25/lisp-meet-up-number-16/</a>
+
+続いてchikuさんが普段使っている自前のユーティリティ集chiku.utilからいくつかアイディアを紹介しました。MAPCARやMAXのような標準関数やLET、IFのような特殊形式のちょっとした変種の他、ハッシュテーブルの表示や走査、収集のための関数などを紹介していました。
+発表資料の修正版がSlideshareで公開されています。
+<iframe src="http://www.slideshare.net/slideshow/embed_code/33844038" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/samugari/chikuutil" title="Before LISPs just Part of the Past ~ #10 chiku.util ~" target="_blank">Before LISPs just Part of the Past ~ #10 chiku.util ~</a> </strong> from <strong><a href="http://www.slideshare.net/samugari" target="_blank">samugari</a></strong> </div>
+
+また、<a href="https://github.com/chiku-samugari/chiku.util">chiku.utilのソース</a>はgithubで公開されています。
+
+発表後は一度休憩を入れ、雑談の時間になりました。
+Common Lispの述語はSchemeに比べて命名規約にしっかり従っていない点が気になるとか、SchemerとCLerって仲悪いのかとか、SchemeとCommon Lispの一番大きな違いはなにか、といったようなSchemeとCommon Lispの違いの話が多かったです。中学生にSchemeを教えたいが良い題材はなにか、というような話題もありました。
+
+### 懇親会
+
+閉場後は会場近くのお店で懇親会になりました。懇親会中は概ね2つのグループに分かれて話していて、Lispやアルゴリズムの本の話題、就職活動や新人研修の話題などが挙がっていました。
+
+### 次回のMeet Upについて
+
+次回はSchemeをテーマに5月下旬の開催を予定しています。
+日程が合えばSagittariusの作者であるKeiさんも参加してなにか話してくださるとのことなので、興味のある方は是非ご参加ください。
+
+また次回以降はイベントページのアンケートフォームを利用して懇親会の参加人数を把握する予定です。
+参加される方はご協力よろしくお願いいたします。
