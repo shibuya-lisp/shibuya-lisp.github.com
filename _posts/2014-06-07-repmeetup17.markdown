@@ -1,0 +1,89 @@
+---
+comments: false
+date: 2014-06-07 22:00
+layout: post
+slug: meetup17
+title: Lisp Meet Up presented by Shibuya.lisp &#x23;17 が開催されました。
+categories:
+- Meet Up
+tag:
+- Meet Up
+---
+
+5月29日(火)に17回目となるLisp Meet Upが開催されました。
+ご参加頂いた23名の皆さま、お疲れさまでした。
+
+発表
+====
+
+今回は事前に告知された発表が4件あったので、自己紹介を飛ばして早々に発表を始めました。4件ともスライドと動画が公開されています。
+
+最初はchikuさんから、先月初めにフランス・パリで開催されたELS2014の参加レポートがありました。大雑把な感想に始まり会期中の食事や会の雰囲気について話した後、興味を引かれた論文やプレゼンを簡単に紹介していました。
+
+<table cellspacing="2" cellpadding="2">
+<tr>
+<td>
+<iframe src="http://www.slideshare.net/slideshow/embed_code/35249973" width="342" height="291" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/samugari/before-els2014report-pub" title="Before LISPs just Part of the Past ~ #11 ELS2014" target="_blank">Before LISPs just Part of the Past ~ #11 ELS2014</a> </strong> from <strong><a href="http://www.slideshare.net/samugari" target="_blank">samugari</a></strong> </div>
+</td>
+<td style="valign: middle">
+<br/>
+<br/>
+<iframe scrolling="no" src="https://docs.google.com/file/d/0B_H0_8eqWuVAVXVTYWUyUFpidFU/preview" width="342" height="206"></iframe>
+</td>
+</tr>
+</table>
+
+続いてtk\_ripleさんから、ご自身で開発しているScheme処理系である<a href="https://code.google.com/p/sagittarius-scheme/">Sagittarius</a>についてお話いただきました。Sagittarius全体の構成がどうなっているかに始まり、どのような最適化を行なっているのか、VMはどのような設計になっているのかといった点に触れた後、CLOS,FASLなどいくつかのトピックについての掘り下げた内容のお話がありました。最後に処理系実装者としてどういう考えでサポートの範囲やトレードオフについて検討しているか、という哲学に触れていました。
+
+<table cellspacing="2" cellpadding="2">
+<tr>
+<td>
+<iframe src="http://www.slideshare.net/slideshow/embed_code/35265506" width="342" height="291" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/katotakashi16/inside-of-sagittarius" title="Inside of Sagittarius (ja)" target="_blank">Inside of Sagittarius (ja)</a> </strong> from <strong><a href="http://www.slideshare.net/katotakashi16" target="_blank">Kato Takashi</a></strong> </div>
+</td>
+<td style="valign: middle">
+<br/>
+<br/>
+<iframe scrolling="no" src="https://docs.google.com/file/d/0B_H0_8eqWuVAYVdTcXlieHZoN3c/preview" width="342" height="206"></iframe>
+</td>
+</tr>
+</table>
+
+続けてTOYOZUMIさんから、「Common Lisp最適化基礎」と題してCommon Lispの最適化についてのお話でした。最適化一般についての考え方と、Common Lispで実践的に最適化するべきときに気を向けるべき点、なぜCommon Lispが計算機の性能を引き出すのに向いているかといった点について説明した後、ご自身で開発している<a href="https://github.com/TOYOZUMIKouichi/Mayaka">Mayaka</a>という画像処理ライブラリからMAP-IMAGEという関数を例題に実際の最適化について解説していました。
+<table cellspacing="2" cellpadding="2">
+<tr>
+<td>
+<iframe src="http://www.slideshare.net/slideshow/embed_code/35282991" width="342" height="291" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/toyozumiKouichi/common-lisp-35282991" title="Common lisp最適化基礎" target="_blank">Common lisp最適化基礎</a> </strong> from <strong><a href="http://www.slideshare.net/toyozumiKouichi" target="_blank">Toyozumi Kouichi</a></strong> </div>
+</td>
+<td style="valign: middle">
+<br/>
+<br/>
+<iframe scrolling="no" src=" https://docs.google.com/file/d/0B_H0_8eqWuVARDVCUEdqUXNiYTA/preview" width="342" height="206"></iframe>
+</td>
+</tr>
+</table>
+
+最後はwasabizさんから、こちらもご自身で開発されているScheme処理系である<a href="https://github.com/wasabiz/picrin">Picrin</a>についてお話いただきました。設計思想と開発体制についての簡単な説明の後、R7RSのライブラリ機構、マクロシステム、非同期プロミスの3点についてそれぞれトピックの説明とPicrinでの実装について解説する、という内容でした。特に非同期プロミスについては質問も多く関心の高さが伺えました。
+<table cellspacing="2" cellpadding="2">
+<tr>
+<td>
+<iframe src="http://www.slideshare.net/slideshow/embed_code/35266140" width="342" height="291" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/yuichinishiwaki/lispmeetup140530" title="Lispmeetup14-05-30" target="_blank">Lispmeetup14-05-30</a> </strong> from <strong><a href="http://www.slideshare.net/yuichinishiwaki" target="_blank">Yuichi Nishiwaki</a></strong> </div>
+</td>
+<td style="valign: middle">
+<br/>
+<br/>
+<iframe scrolling="no" src="https://docs.google.com/file/d/0B_H0_8eqWuVAV0Rha0lJeXpyZG8/preview" width="342" height="206"></iframe>
+</td>
+</tr>
+</table>
+また、PicrinのソースコードはGithubで公開されています。
+https://github.com/wasabiz/picrin
+
+### 懇親会
+
+閉場後は会場近くの「湊一や」というお店で懇親会をしました。
+本体では飛ばした自己紹介をした後、Schemeの処理系の話やSchemeの仕様の話、TaPLやコンパイラの入門書などの書籍の話題、C++とCommon Lispの違いなど、発表の内容に絡んだ話題が多かったようです。
+
+### 次回のMeet Upについて
+
+次回Meet UpはClojureをテーマに、6月下旬の開催を予定しています。
+日程等の詳細が決まり次第MLやTwitterなどで告知させて頂きます。
