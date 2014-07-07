@@ -22,8 +22,8 @@ tag:
 
 １つ目はTOYOZUMIさんから、「Common Lisp最適化応用」と題し、最適化についての発表・第三回目でした。初めに関数定義インターフェースであるDEFUNSAFE2がコケることがある、という前回の内容についての捕捉説明があり、続いてSBCLでSIMD演算を使うために必要な準備や制限、さらにSIMD命令を用いて高速化する場合に必要なメモリ上におけるデータのアラインメントや並び替え、および演算の表現について解説されました。最適化のために、DEFUNで定義された関数の定義フォームにアクセスする方法なども紹介されました。
 
-スライドはSlideshareで公開されています。
-http://www.slideshare.net/toyozumiKouichi/common-lisp-36428772
+スライドはSlideshareで公開されています。<br />
+<a href="http://www.slideshare.net/toyozumiKouichi/common-lisp-36428772">http://www.slideshare.net/toyozumiKouichi/common-lisp-36428772</a>
 
 連載(?)３回目となり、タイトルも「応用」とあるようにとても充実した内容でした。
 次回のMeet Upではさらなる最適化の話題に触れるようです。
@@ -31,8 +31,8 @@ http://www.slideshare.net/toyozumiKouichi/common-lisp-36428772
 2つ目はtfukushimaさんから、「続Omについて」と題して、ReactのClojureScriptインターフェースであるOmとその周辺についての発表でした。別なイベントで行なうLTの予行練習をしたいとのことで、まず５分時間を測ってLT形式で発表した後、内容についてのフィードバックをもらい、詳細な解説を行なうというちょっと変則的な構成でした。
 内容としてはundoを容易かつ高速に行なうReactとそのClojureScriptラッパーであるOmの説明、Om用のユーティリティOM-TOOLSやクライアントサイドのインメモリデータベースであるDATALOGなどの紹介がありました。最後に、tfukushimaさんが実装しているFLIGHTDECKというインメモリデータベースをREST APIから構築するライブラリの実装について解説がありました。
 
-tfukushimaさんのスライドは以下で公開されています。
-https://docs.google.com/file/d/0B_H0_8eqWuVAT2RKcnpQeTM1Q1k/preview
+tfukushimaさんのスライドは以下で公開されています。<br />
+see, <a href="https://docs.google.com/file/d/0B_H0_8eqWuVAT2RKcnpQeTM1Q1k/preview">https://docs.google.com/file/d/0B_H0_8eqWuVAT2RKcnpQeTM1Q1k/preview</a>
 
 ２件の発表の後、一度中締めとし、その後は私からTech Talk #8の告知を、さらに非Lisperへいかにリーチするかとか、イベントに人を集めるにはどうするのが良いのかといった点について意見交換をしました。
 
