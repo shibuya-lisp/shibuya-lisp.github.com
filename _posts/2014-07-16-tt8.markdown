@@ -1,0 +1,22 @@
+---
+comments: true
+date: 2014-07-16 25:00:00
+layout: post
+slug: tt8a
+title: Shibuya.lisp テクニカル・トーク #8 開催のお知らせ
+categories:
+- tech talk
+tag:
+- tech talk
+---
+
+2014年8月30日(土) に、Shibuya.lisp テクニカル・トーク #8 を開催する運びとなりました。
+今回は『表現 ～Sweet Expressions～』をテーマに、Lisp 系言語に関する大会を行います。
+Lisp 系言語に対して熱い想いを抱いているLisper の皆さま、そして、Lisp hacker に淡い憧れを抱いている皆さまのご参加をお待ちしております。
+
+詳細に関しましては、<a href="http://atnd.org/events/53806">ATND 大会告知・参加登録ページ</a>ご参照ください。
+
+また、Technical Talk およびLightning Talk のご講演も募集しております。
+講演をご希望される方は、<a href="http://www.mo.cs.meiji.ac.jp/shibuyalisp/2014">講演募集ページ</a>も併せてご参照ください。
+
+よろしくお願い申し上げます。
