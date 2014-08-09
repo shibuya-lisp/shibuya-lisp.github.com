@@ -22,7 +22,7 @@ tag:
 
 <table cellspacing="2" cellpadding="2">
 <tr>
-<td>
+<td width=350>
 <iframe src="http://www.slideshare.net/slideshow/embed_code/35249973" width="342" height="291" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/samugari/before-els2014report-pub" title="Before LISPs just Part of the Past ~ #11 ELS2014" target="_blank">Before LISPs just Part of the Past ~ #11 ELS2014</a> </strong> from <strong><a href="http://www.slideshare.net/samugari" target="_blank">samugari</a></strong> </div>
 </td>
 <td style="valign: middle">
@@ -37,7 +37,7 @@ tag:
 
 <table cellspacing="2" cellpadding="2">
 <tr>
-<td>
+<td width=350>
 <iframe src="http://www.slideshare.net/slideshow/embed_code/35265506" width="342" height="291" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/katotakashi16/inside-of-sagittarius" title="Inside of Sagittarius (ja)" target="_blank">Inside of Sagittarius (ja)</a> </strong> from <strong><a href="http://www.slideshare.net/katotakashi16" target="_blank">Kato Takashi</a></strong> </div>
 </td>
 <td style="valign: middle">
@@ -51,7 +51,7 @@ tag:
 続けてTOYOZUMIさんから、「Common Lisp最適化基礎」と題してCommon Lispの最適化についてのお話でした。最適化一般についての考え方と、Common Lispで実践的に最適化するべきときに気を向けるべき点、なぜCommon Lispが計算機の性能を引き出すのに向いているかといった点について説明した後、ご自身で開発している<a href="https://github.com/TOYOZUMIKouichi/Mayaka">Mayaka</a>という画像処理ライブラリからMAP-IMAGEという関数を例題に実際の最適化について解説していました。
 <table cellspacing="2" cellpadding="2">
 <tr>
-<td>
+<td width=350>
 <iframe src="http://www.slideshare.net/slideshow/embed_code/35282991" width="342" height="291" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/toyozumiKouichi/common-lisp-35282991" title="Common lisp最適化基礎" target="_blank">Common lisp最適化基礎</a> </strong> from <strong><a href="http://www.slideshare.net/toyozumiKouichi" target="_blank">Toyozumi Kouichi</a></strong> </div>
 </td>
 <td style="valign: middle">
@@ -65,7 +65,7 @@ tag:
 最後はwasabizさんから、こちらもご自身で開発されているScheme処理系である<a href="https://github.com/wasabiz/picrin">Picrin</a>についてお話いただきました。設計思想と開発体制についての簡単な説明の後、R7RSのライブラリ機構、マクロシステム、非同期プロミスの3点についてそれぞれトピックの説明とPicrinでの実装について解説する、という内容でした。特に非同期プロミスについては質問も多く関心の高さが伺えました。
 <table cellspacing="2" cellpadding="2">
 <tr>
-<td>
+<td width=350>
 <iframe src="http://www.slideshare.net/slideshow/embed_code/35266140" width="342" height="291" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/yuichinishiwaki/lispmeetup140530" title="Lispmeetup14-05-30" target="_blank">Lispmeetup14-05-30</a> </strong> from <strong><a href="http://www.slideshare.net/yuichinishiwaki" target="_blank">Yuichi Nishiwaki</a></strong> </div>
 </td>
 <td style="valign: middle">
