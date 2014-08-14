@@ -1,0 +1,100 @@
+---
+comments: false
+date: 2014-08-09 14:00
+layout: post
+slug: meetup19
+title: Lisp Meet Up presented by Shibuya.lisp &#x23;19 が開催されました。
+categories:
+- Meet Up
+tag:
+- Meet Up
+---
+
+7月29日(木)に19回目となるLisp Meet Upが開催されました。
+ご参加頂いた19名のみなさま、お疲れさまでした。
+
+発表
+====
+今回は19名の参加、4件の発表と充実したMeet Upでした。
+いつも通り主催からの挨拶と参加者の自己紹介をしたあと、発表に移りました。
+
+まずTOYOZUMIさんから、「Common Lisp最適化発展」と題し、Common Lispでの最適化についての発表・第4回目でした。ある画素についての計算にその画素の周囲の画素が関与する、空間フィルタと呼ばれる類のフィルタをどういった考え方で高速化するかというお話で、コーナーケースの取り扱いなどが具体的に説明されていました。
+<center>
+<iframe src="//www.slideshare.net/slideshow/embed_code/37456264" width="342" height="291" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/toyozumiKouichi/common-lisp-37456264" title="Common lisp最適化発展" target="_blank">Common lisp最適化発展</a> </strong> from <strong><a href="http://www.slideshare.net/toyozumiKouichi" target="_blank">Toyozumi Kouichi</a></strong> </div>
+</center>
+
+次にTakagiさんから、「NVIDIA CUDA を利用するためのライブラリ」と題した発表で、Takagiさんご自身が開発しているcl-cudaというライブラリの紹介でした。cl-cudaはCommon LispからNVIDIA CUDAを利用するためのライブラリです。単なるライブラリの紹介ではなく、GPGPUとはなにかという話に始まり、その歴史などに簡単に触れた後、cl-cudaではどのようなプロセスでGPGPU用のコードを生成し、利用するかという内容に触れていました。
+スライドはSlideshareにて公開されています。
+<center>
+<table cellspacing="2" cellpadding="2">
+<tr>
+<td width=350>
+<iframe src="//www.slideshare.net/slideshow/embed_code/37637072" width="342" height="291" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/masayukitakagi/lisp-meet-up19-clcuda-a-library-to-use" title="Lisp Meet Up #19, cl-cuda: a library to use NVIDIA CUDA in Common Lisp" target="_blank">Lisp Meet Up #19, cl-cuda: a library to use NVIDIA CUDA in Common Lisp</a> </strong> from <strong><a href="http://www.slideshare.net/masayukitakagi" target="_blank">masayukitakagi</a></strong> </div>
+</td>
+<td style="valign: middle">
+<br/>
+<br/>
+<div>
+<iframe src="https://docs.google.com/file/d/0B_H0_8eqWuVAUVBtWW1SdHRnLVU/preview" width="320" height="240"></iframe>
+</div>
+</td>
+</tr>
+</table>
+</center>
+
+また、cl-cudaのソースコードはGithubにて公開されています。
+<a href="https://github.com/takagi/cl-cuda">cl-cuda</a>
+
+続いてκeenさんから「Cloud9の紹介」と題してWebベースのIDEサービスであるCloud9の紹介がありました。Common LispのコードをCloud9から実行、結果が見られることまでは確認したとのことです。
+<center>
+<table cellspacing="2" cellpadding="2">
+<tr>
+<td width=350>
+<iframe src="http://keens.github.io/slide/cloud-9.html#/" width="342" height="291" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/masayukitakagi/lisp-meet-up19-clcuda-a-library-to-use" title="Lisp Meet Up #19, cl-cuda: a library to use NVIDIA CUDA in Common Lisp" target="_blank">Lisp Meet Up #19, cl-cuda: a library to use NVIDIA CUDA in Common Lisp</a> </strong> from <strong><a href="http://www.slideshare.net/masayukitakagi" target="_blank">masayukitakagi</a></strong> </div>
+</td>
+<td style="valign: middle">
+<br/>
+<br/>
+<iframe src="https://docs.google.com/file/d/0B_H0_8eqWuVAME8tRjVVcjNkQkE/preview" width="320" height="240"></iframe>
+</td>
+</tr>
+</table>
+</center>
+
+補足としてCloud9を使ってCommon Lispコードを実行するための詳細な手順をご自身のブログにあげていますので合わせて紹介させていただきます。
+<a href="http://keens.github.io/blog/2014/08/02/introduction-to-cloud9/">http://keens.github.io/blog/2014/08/02/introduction-to-cloud9/</a>
+
+最後に、菱沼さんから「床下からCommon Lisp」と題したLTがありました。近所の研究室が大掃除をしたところしたところ床下からmu Lispとかかれた本と5インチフロッピーが出てきたとのことで、中身の紹介をし、最後にTechnical Talk #8に向けてLTへの応募を呼びかけるといった内容でした。
+<center>
+<table cellspacing="2" cellpadding="2">
+<tr>
+<td width=350>
+<iframe src="//www.slideshare.net/slideshow/embed_code/37422882" width="342" height="291" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/kazh98/common-lisp-37422882" title="床下からCommon Lisp" target="_blank">床下からCommon Lisp</a> </strong> from <strong><a href="http://www.slideshare.net/kazh98" target="_blank">Kazuhiro Hishinuma</a></strong> </div>
+</td>
+<td style="valign: middle">
+<br/>
+<br/>
+<iframe src="https://docs.google.com/file/d/0B_H0_8eqWuVATFF2aFhQcVNoTVU/preview" width="320" height="240"></iframe>
+</td>
+</tr>
+</table>
+</center>
+
+発表が4件が終わった後はmu Lispが話題の中心に上りました。参加者の方が調べたところではまるごと公開されていたらしく、ファイルの一覧を眺めたりして盛り上がっていました。
+DOSの実行形式が見つかったので、いずれ誰かが動かしてみた報告をしてくれるかもしれません。
+
+κeenさんが参加レポートを公開していますので、ここで紹介させていただきます。
+<a href="http://keens.github.io/blog/2014/07/30/lisp-meet-up-number-19/">Lisp Meet Up #19でLTしてきました</a>
+
+### 懇親会
+
+終了後は会場近くの串茶屋というお店で懇親会をしました。会場からあるいて5分、11名もいたにも関わらずすぐ入れました。店員さんの対応もよく、気持ちのいいお店でした。
+Shibuya.lispは終わったと聞いたけどそこのところどうなの？という質問にはじまり、Shibuya.lispがいまどういう雰囲気かなどについて話しました。Technical Talk #8での映像の記録と配信についての話し合いなどもしました。
+終盤ではGPGPUやシミュレーションの話、疎行列の話なども話題に挙がっていました。
+
+### 次回のMeet Upについて
+
+次回はSchemeをテーマに、9月下旬に開催を予定しています。
+8月はMeet Upはおやすみし、<a href="https://atnd.org/events/53806">Technical Talk #8</a>が開催されます。
+
+みなさまのご参加、そしてTechnical TalkおよびLighning Talkへのご応募をお待ちしております。
