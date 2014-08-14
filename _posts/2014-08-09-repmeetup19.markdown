@@ -48,8 +48,11 @@ DOSの実行形式が見つかったので、いずれ誰かが動かしてみ�
 <a href="http://keens.github.io/blog/2014/07/30/lisp-meet-up-number-19/">Lisp Meet Up #19でLTしてきました</a>
 
 発表の映像は以下から見られます。
+
 Takagiさん : <a href="https://drive.google.com/file/d/0B_H0_8eqWuVAUVBtWW1SdHRnLVU/edit?usp=sharing">https://drive.google.com/file/d/0B_H0_8eqWuVAUVBtWW1SdHRnLVU/edit?usp=sharing</a>
+
 菱沼さん : <a href="https://drive.google.com/file/d/0B_H0_8eqWuVAME8tRjVVcjNkQkE/edit?usp=sharing">https://drive.google.com/file/d/0B_H0_8eqWuVAME8tRjVVcjNkQkE/edit?usp=sharing</a>
+
 κeenさん : <a href="https://drive.google.com/file/d/0B_H0_8eqWuVATFF2aFhQcVNoTVU/edit?usp=sharing">https://drive.google.com/file/d/0B_H0_8eqWuVATFF2aFhQcVNoTVU/edit?usp=sharing</a>
 
 
