@@ -1,0 +1,70 @@
+---
+comments: false
+date: 2014-10-18 23:59
+layout: post
+slug: meetup20
+title: Lisp Meet Up presented by Shibuya.lisp &#x23;20 が開催されました。
+categories:
+- Meet Up
+tag:
+- Meet Up
+---
+
+<p>
+9月29日(月)に、記念すべき20回目となる Lisp Meet Up が開催されました。<br />
+当日は16名の方にご参加いただきました。ありがとうございます。<br />
+また、会場提供をしていただいたpotix2 さん、ありがとうございます。<br />
+</p>
+<p>
+イベントページ: <a href="https://atnd.org/events/56406">https://atnd.org/events/56406</a>
+</p>
+
+<h3>当日の活動内容</h3>
+<p>
+予定された発表1件、飛び込み発表2件、計3件の発表がありました。 
+</p>
+<dl>
+<dt>κeen さん: Picrin のチューニングの話、もといGC の話</dt>
+<dd>
+<p>
+cheme 処理系Picrin を開発しているκeen さんより、Picrin 処理系におけるガベージコレクションアルゴリズムと、その最適化について発表がありました。
+</p>
+<p>
+将来的には組み込みシステム上での動作を目指すPicrin 処理系では、そのために必要なGC 要件がいくつかあり、アルゴリズムもそれに合わせて選択や調整をする必要があるという問題提起をされていました。<br />
+発表後には、近年のGCアルゴリズムの研究成果など、活発な議論が交わされました。
+</p>
+<p>
+発表資料: <a href="http://keens.github.io/slide/picrin-gc.html">http://keens.github.io/slide/picrin-gc.html</a>
+</p>
+</dd>
+<dt>contellas さん</dt>
+<dd>
+もともと教育用プログラミング言語なはずのScheme ですが、最近は教育用途のプログラミング言語としての座をPython などに奪われている気がします…… <br />
+その理由が開発環境にあると見て、ブラウザ上で完結したScheme プログラミング環境を作ってみた、という発表でした。<br />
+BiwaScheme のJavaScript による実装であるrepl.it の改良として実装しているようです。
+</p>
+<p>
+発表資料: <a href="http://contellas.com/scheme/">http://contellas.com/scheme/</a>
+</p>
+</dd>
+<dt>snmsts さん</dt>
+<dd>
+<p>
+Common Lisp のSwank に接続して、ブラウザ上からCommon Lisp プログラムを評価するアプリケーションの発表をされていました。Swank をHack して、JavaScript でWebSocket をラップする、という、かなり開発が大変そうな作品でした。<br />
+Swank に接続しているので、補完情報などを取ることも理論上は可能、ということだそうです。（理論上は、というところがミソですね☆）<br />
+</p>
+</dd>
+</dl>
+<p>
+発表以外では、音楽とScheme のつながりについての話や、Picrin 性能調整の話に関連して、離散フーリエ変換ライブラリのFFTW がOcaml で性能調整されたC 言語のコードを生成しているといった話、また、普段使っているエディタの話などがありました。<br />
+ちなみに、会場内の過半数がEmacs 派、Vimmer は5 人という結果でした笑
+</p>
+
+<h3>次回の開催予定</h3>
+<p>
+次回は、Clojure を中心とした内容で、10/29(水)に開催を予定しています。<br />
+参加登録は<a href="https://atnd.org/events/53806">イベントページ</a>よりお願いします。
+</p>
+<p>
+みなさまのご参加をお待ちしております。
+</p>
