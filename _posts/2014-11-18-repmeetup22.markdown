@@ -1,0 +1,73 @@
+---
+comments: false
+date: 2014-11-18 14:00
+layout: post
+slug: meetup22
+title: Lisp Meet Up presented by Shibuya.lisp &#x23;22 が開催されました。
+categories:
+- Meet Up
+tag:
+- Meet Up
+---
+
+<p>
+10月29日(水)に21回目となるLisp Meet Upが開催されました。<br/>
+ご参加頂いた19名の皆さま、お疲れさまでした。
+</p>
+<p>
+イベントページ: <a href="https://atnd.org/events/57943">https://atnd.org/events/57943</a>
+</p>
+
+<h3>当日の活動内容</h3>
+<p>
+今回は3件の事前に告知された発表の他、1件飛び入りで発表がありました。
+</p>
+<dl>
+<dt>κeen さん:Claspを少し触ってみた</dt>
+<dd>
+<p>
+9月にリリースされたCommon Lisp処理系<a href="https://github.com/drmeister/clasp">Clasp</a>について、その目指す方向性やビルド方法などについての説明と、ASDFやCL-PPCREなどのライブラリ、C++との連携を試した結果のレポートがありました。
+</p>
+</dd>
+<dt>TOYOZUMIさん: docstringとコメントからgithub向けドキュメントを生成する</dt>
+<dd>
+Common Lispにおける定義フォームのdocstringとソースコード中トップレベルの文字列リテラルを元にドキュメントを生成する話でした。関数やプログラムの説明をどこにどのような形で書き残すべきかについての考えと、その具体的な実装にGaucheを用いた理由についての解説がありました。
+</p>
+</dd>
+<dt>halcat0x15aさん</dt>
+<dd>
+<p>
+Clojureのcore.asyncの基本的な使い方についての説明でした。core.asyncの基本的な関数やマクロをどのように使うかに始まり、後半では背後の仕組みや、goとfutureの挙動の違いといったことについて説明していました。適時質問を促し、他の参加者が議論や説明に参加しするなど、どちらかというと講義か輪講に近い雰囲気でした。
+</p>
+</dd>
+<dt>ktsujisterさん: Core.async&transducers</dt>
+<dd>
+<p>
+halcat0x15aさんの発表を受け、Clojureのcore.asyncとtransducerの利用方法について発表がありました。Clojure 1.7からcoreに追加されるtransducerについて、その使い方やハマりやすいポイント、設計上の議論などについてのお話でした。
+</p>
+<p>
+発表資料: <a href="http://www.slideshare.net/ktsujister/coreasynctransducers-shibuyalisp-21">http://www.slideshare.net/ktsujister/coreasynctransducers-shibuyalisp-21</a>
+</dd>
+<dt>halcat0x15aさん</dt>
+<dd>
+<p>
+halcat0x15aさんが再び登壇し、限定継続ライブラリのClojureでの実装と、それを用いた論理プログラミングライブラリの実装についての発表がありました。いずれもご自身で実装されたもので、後者については3引数のappendを用いてのデモや、実装の基本的な考えた方についても説明がありました
+</p>
+</dl>
+<p>
+</p>
+発表の動画を公開しましたので、ご興味のある方は是非ご覧ください。
+κeenさん :<a href="https://drive.google.com/file/d/0B_H0_8eqWuVAZzZvYkI1b3psVXc/preview">https://drive.google.com/file/d/0B_H0_8eqWuVAZzZvYkI1b3psVXc/preview</a>
+TOYOZUMIさん :<a href="https://drive.google.com/file/d/0B_H0_8eqWuVAbldKNHl5eXM0YVU/preview">https://drive.google.com/file/d/0B_H0_8eqWuVAbldKNHl5eXM0YVU/preview</a>
+halcat0x15aさん : <a href="https://drive.google.com/file/d/0B_H0_8eqWuVAUG9ab3RKVFhhdHc/preview">https://drive.google.com/file/d/0B_H0_8eqWuVAUG9ab3RKVFhhdHc/preview</a>
+ktsujisterさん :<a href="https://drive.google.com/file/d/0B_H0_8eqWuVASllVY2FJZ1lEV2s/preview">https://drive.google.com/file/d/0B_H0_8eqWuVASllVY2FJZ1lEV2s/preview</a>
+halcat0x15aさん(２回目) :<a href="https://drive.google.com/file/d/0B_H0_8eqWuVAZXFhZDJ0d3RZR0E/preview">https://drive.google.com/file/d/0B_H0_8eqWuVAZXFhZDJ0d3RZR0E/preview</a>
+
+<h3>次回の開催予定</h3>
+<p>
+次回は、Common Lisp を中心とした内容で、11/27(木)に開催を予定しています。<br />
+参加登録は<a href="https://atnd.org/events/58924">イベントページ</a>よりお願いします。
+</p>
+<p>
+みなさまのご参加をお待ちしております。
+</p>
