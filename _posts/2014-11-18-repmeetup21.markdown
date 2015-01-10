@@ -2,8 +2,8 @@
 comments: false
 date: 2014-11-18 14:00
 layout: post
-slug: meetup22
-title: Lisp Meet Up presented by Shibuya.lisp &#x23;22 が開催されました。
+slug: meetup21
+title: Lisp Meet Up presented by Shibuya.lisp &#x23;21 が開催されました。
 categories:
 - Meet Up
 tag:
