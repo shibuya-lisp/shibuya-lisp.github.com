@@ -1,0 +1,57 @@
+---
+comments: false
+date: 2015-01-10 22:00
+layout: post
+slug: meetup23
+title: Lisp Meet Up presented by Shibuya.lisp &#x23;23 が開催されました。
+categories:
+- Meet Up
+tag:
+- Meet Up
+---
+<p>
+12月22日(月)に23回目となるLisp Meet Upが開催されました。
+ご参加頂いた13名の皆さま、お疲れさまでした。
+</p>
+<p>
+イベントページ: <a href="https://atnd.org/events/59767">https://atnd.org/events/59767</a>
+</p>
+
+<h3>当日の活動内容</h3>
+<p>
+前半には、予定された2件の発表がありました。後半はShibuya.lisp でLisp 入門講座を行うとしたらどういうカリキュラムにするか、ということについてのディスカッションを行いました。
+</p>
+<dl>
+<dt>kazh98さん: (Typed-)Racket Injection</dt>
+<dd>
+<p>
+大学の講義課題のプログラムテンプレートをTyped Racket で記述して提供したらLisper は増えるかどうかという話でした。結果としては誰もLisp で書いてこなかったとのことでした。
+</p>
+<p>スライド：<a href="http://www.slideshare.net/kazh98/typedracket-injection">http://www.slideshare.net/kazh98/typedracket-injection</a></p>
+</dd>
+<dt>ymizushiさん: 括弧を使わないLispプログラミング</dt>
+<dd>
+<p>
+Lispの本質はツリー(リスト)構造にある、ということに着目して、グラフィカルプログラミング言語としてのLisp処理系を提案するという発表でした。
+プログラミング初学者、とくに小学生以下をターゲットに、Drag&Drop でプログラミングができ、また、動きや色を付けて小学生が興味を引くような工夫をされていました。
+グラフィカルLispプログラミングの特徴として、多人数プログラミングにおいてファイル単位ではなくリスト単位でロックをかければよいという点を活かして、その用途での開発も考えているとのことでした。
+</p>
+<p>スライド: <a href="http://www.slideshare.net/ymizush/emotional-hub">http://www.slideshare.net/ymizush/emotional-hub</a></p>
+<p>ソース：<a href="https://github.com/ymizushi/EmotionalHub">https://github.com/ymizushi/EmotionalHub</a>
+</dd>
+</dl>
+<p>
+発表の動画を公開しましたので、ご興味のある方は是非ご覧ください。
+<p>
+kazh98さん: <a href="https://drive.google.com/file/d/0B_H0_8eqWuVAdzNIaWFyRndvQ0k/">https://drive.google.com/file/d/0B_H0_8eqWuVAdzNIaWFyRndvQ0k/</a>
+</p>
+<p>
+ymizushiさん: <a href="https://drive.google.com/file/d/0B_H0_8eqWuVAYW1lZ3JXcUJVR3c/">https://drive.google.com/file/d/0B_H0_8eqWuVAYW1lZ3JXcUJVR3c/</a>
+</p>
+<h3>次回の開催予定</h3>
+<p>
+次回は<b>Clojure</b>を中心とした内容で、1/28(月)に開催を予定しています。<br />
+</p>
+<p>
+みなさまのご参加をお待ちしております。
+</p>
