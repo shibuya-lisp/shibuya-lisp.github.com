@@ -1,0 +1,54 @@
+---
+comments: false
+date: 2015-01-10 21:00
+layout: post
+slug: meetup22
+title: Lisp Meet Up presented by Shibuya.lisp &#x23;22 が開催されました。
+categories:
+- Meet Up
+tag:
+- Meet Up
+---
+
+<p>
+11月27日(木)に22回目となるLisp Meet Upが開催されました。
+ご参加頂いた20名の皆さま、お疲れさまでした。
+</p>
+<p>
+イベントページ: <a href="https://atnd.org/events/58924">https://atnd.org/events/58924</a>
+</p>
+
+<h3>当日の活動内容</h3>
+<p>
+今回は2件の事前に告知された発表の他、1件飛び入りで発表がありました。今回は運営全員がLTしたためUstream配信用のPCを確保出来ず、Ustream配信は行われませんでした。
+</p>
+<dl>
+<dt>深町さん: Common Lispで高速なHTTPパーサーを書く</dt>
+<dd>
+<p>
+ライブラリfast-httpを高速化するまでの経緯から高速化の手法や勘所の説明、解説がありました。一般的な高速化に留まらず、HTTPパーサが不完全なリクエストを処理するときの問題とその対処戦略など多岐に亘る内容でした。
+</p>
+<p> 発表資料：<a href="http://www.slideshare.net/fukamachi/writing-a-fast-http-parser">http://www.slideshare.net/fukamachi/writing-a-fast-http-parser</a></p>
+<p>
+ソース：<a href="https://github.com/fukamachi/fast-http">https://github.com/fukamachi/fast-http</a>
+</p>
+</dd>
+<dt>chikuさん: symbol tree diff</dt>
+<dd>
+<p>Lispソースのdiffを行単位ではなく構文木レベルで出すライブラリについての発表でした。前半は以前から取り組まれている内容、後半はその後の進展の報告と見やすいdiffの表示方法について会場に問い掛ける内容でした。</p>
+<p>発表資料：<a href=" http://www.slideshare.net/samugari/symbol-treediff">http://www.slideshare.net/samugari/symbol-treediff</a></p>
+<p>ソース：<a href="https://github.com/chiku-samugari/stdiff-cl">https://github.com/chiku-samugari/stdiff-cl</a>
+</dd>
+<dt>κeenさん: Semantic S式</dt>
+<dd>
+<p>
+意味が解釈しやすく、パースや編集が楽に行えるようS式の作り方に関する考察でした。
+</p>
+</dd>
+</dl>
+<p>
+発表の動画を公開しましたので、ご興味のある方は是非ご覧ください。
+<p>深町さん:<a href="https://docs.google.com/file/d/0B_H0_8eqWuVARnhncWZpRFdUOWM/preview">https://docs.google.com/file/d/0B_H0_8eqWuVARnhncWZpRFdUOWM/preview</a></p>
+<p>chikuさん:<a href="https://docs.google.com/file/d/0B_H0_8eqWuVARUoxVGtiMlFrRVU/preview">https://docs.google.com/file/d/0B_H0_8eqWuVARUoxVGtiMlFrRVU/preview</a></p>
+<p>κeenさん:<a href="https://docs.google.com/file/d/0B_H0_8eqWuVAQms2QkZDcnZfVlU/preview">https://docs.google.com/file/d/0B_H0_8eqWuVAQms2QkZDcnZfVlU/preview</a></p>
+</p>
