@@ -1,0 +1,72 @@
+---
+comments: false
+date: 2015-02-10 22:00
+layout: post
+slug: meetup24
+title: Lisp Meet Up presented by Shibuya.lisp &#x23;24 が開催されました。
+categories:
+- Meet Up
+tag:
+- Meet Up
+---
+<p>
+1月28日(水)に、第24回LispMeetUpが開催されました。全19名の方にご参加いた だけました。参加者のみなさん、お疲れさまでした。
+</p>
+<p>
+イベントページ: <a href="https://atnd.org/events/61320">https://atnd.org/events/61320</a>
+</p>
+
+<h3>当日の活動内容</h3>
+<p>
+事前に告知されていた2件の発表に加え、飛び入りで2件の発表がありました。
+</p>
+
+<dl>
+<dt> Shigeru Fujiwaraさん: Developing Desktop Applications with Clojure</dt>
+<dd>
+<p>
+Swingのラッパフレームワークであるseasaw[^1]に関連する発表 でした。ご自身で作られたアプリケーションの紹介から始まり、<a href="https://github.com/daveray/seesaw">seesaw</a>の紹介、Clojure やseesawを使うことの利点など話がありました。Clojureを使うことで体感的に コード量が1/3になったそうです。
+</p>
+</dd>
+<dt>guicho271828さん: eazy-processについて</dt>
+<dd>
+<p>
+ご自身で開発中の<a href="https://github.com/guicho271828/eazy-process">eazy- process</a>についての発表がありました。Common Lispで使われる外部プロセスを呼ぶ仕組みが複雑すぎることを問題点として上げ、簡単に使えるものとして開発されているそうです。会場ではリソースの開放タイミングをGCに任せるか ユーザーが管理すべきかの議論が起こりました。
+</p>
+</dd>
+<dt>tfukushimaさん:ネットワーク・トポロジーの可視化</dt>
+<dd>
+<p>
+Clojureで開発中の<a href="http://midonet.org/">midonet</a>のネットワークト ポロジーを可視化するシステムについての発表でした。Dockerイメージのダウ ンロードが間に合わず、デモは出来ませんでしたがグラフの見せ方や Om(react.js)、クエリ言 語の<a href="http://en.wikipedia.org/wiki/Datalog">Datalog</a>とClojureでクエリを投げる時に使う<a href="https://github.com/edn-format/edn">edn</a>というフォーマットについて熱く議論が交わされました。
+</p>
+</dd>
+
+<dt>ktsujister: ednについて</dt>
+<dd>
+<p>
+ednは他のスクリプト言語ではJSONやその互換フォーマットが使われるところで使われるClojureのシンタックスを元にしたフォーマットで、セットやタグ付きデータなどに特徴があるそうです。
+</p>
+</dd>
+</dl>
+
+発表の動画を公開しましたので、ご興味のある方は是非ご覧ください。
+<p>
+Shigeru Fujiwaraさん: <a href="https://drive.google.com/file/d/0B_H0_8eqWuVAUzNRRjdCRVdXcVk/view?usp=sharing">https://drive.google.com/file/d/0B_H0_8eqWuVAUzNRRjdCRVdXcVk/view?usp=sharing</a>
+</p>
+<p>
+guicho271828さん: <a href="https://drive.google.com/file/d/0B_H0_8eqWuVAWXhRQU9qelFqdzg/view?usp=sharing">https://drive.google.com/file/d/0B_H0_8eqWuVAWXhRQU9qelFqdzg/view?usp=sharing</a>
+</p>
+
+<p>
+ktsujisterさん: <a href="https://drive.google.com/file/d/0B_H0_8eqWuVARzQ1cDZzdzdUems/view?usp=sharing">https://drive.google.com/file/d/0B_H0_8eqWuVARzQ1cDZzdzdUems/view?usp=sharing</a>
+</p>
+
+tfukushimaさんの発表は録画機器の操作ミスにより録画出来ておりませんでした。申し訳ありません。
+
+<h3>次回の開催予定</h3>
+次回は<b>Common Lisp</b>を話題の中心に、2月25日(木)の開催を予定しています。
+詳細および参加登録は以下のイベントページからお願いいたします。
+
+<a href="https://atnd.org/events/62568">https://atnd.org/events/62568</a>
+
+みなさまのご参加をお待ちしております。
