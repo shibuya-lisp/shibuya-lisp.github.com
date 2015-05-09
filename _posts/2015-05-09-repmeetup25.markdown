@@ -1,0 +1,94 @@
+---
+comments: false
+date: 2015-05-09 23:30
+layout: post
+slug: meetup25
+title: Lisp Meet Up presented by Shibuya.lisp &#x23;25 が開催されました。
+categories:
+- Meet Up
+tag:
+- Meet Up
+---
+
+<p>
+2月25日(水)に第25回Lisp Meet Upが開催されました。全16名の方にご参加いただけました。
+参加者のみなさん、お疲れさまでした。
+</p>
+<p>
+イベントページ: <a href="https://atnd.org/events/62568">https://atnd.org/events/62568</a>
+</p>
+
+<h3>当日の活動内容</h3>
+
+<p>
+今回は4件の発表が予約されていたので、通例となっている参加者の自己紹介は省き、主催の挨拶の後はすぐに発表が開始されました。
+</p>
+
+<dl>
+<dt> hyotang666さん: packageの局所的なuseのためのユーティリティ</dt>
+<dd>
+<p>
+packageを局所的にuseするための自作ユーティリティ<a href="https://github.com/hyotang666/with-package">WITH-PACKAGE</a>についてのお話でした。Common LispではREAD時に各シンボルのホームパッケージが決まってしまうので、useしていないパッケージのシンボルをある静的な範囲でパッケージ修飾せずにアクセスするには何らかの工夫を要します。<a href="https://github.com/hyotang666/with-package">WITH-PACKAGE</a>ではマクロ展開時にシンボル名を根拠にインターンし直すことでこの問題に対処しています。
+</p>
+<p>
+<dd>WITH-PACKAGEのソース: <a href="https://github.com/hyotang666/with-package">https://github.com/hyotang666/with-package</a></dd>
+<dd>発表映像: <a href="https://drive.google.com/file/d/0B_H0_8eqWuVAVFRVaHB6NXEtYlk/view?usp=sharing">https://drive.google.com/file/d/0B_H0_8eqWuVAVFRVaHB6NXEtYlk/view?usp=sharing</a></dd>
+</dd>
+</p>
+<dt> 深町さん: Woo: The way to the fastest web server in Common Lisp</dt>
+<dd>
+<p>
+発表者がご自身で実装中の高速なHTTPサーバ：<a href="https://github.com/fukamachi/woo">Woo</a>についてその設計や現状についてのお話でした。<a href="https://github.com/fukamachi/woo">Woo</a>はNode.jsよりも高速なHTTPサーバとなることを目標に開発が開始され、これを達成するためのアーキテクチャの選定、使用した既存ライブラリ、新規に開発したライブラリなどについて詳細に説明していました。既存のHTTPサーバのアプローチやライブラリの問題点についても触れていて、とても充実した内容でした。
+なお、当初の目標は既に達成され、現在はすべてのHTTPサーバよりも高速なHTTPサーバとなることに目標が変更されたそうです。
+</p>
+
+<p>
+<dd>スライド: <a href="http://www.slideshare.net/fukamachi/woo-writing-a-fast-web-server">http://www.slideshare.net/fukamachi/woo-writing-a-fast-web-server</a></dd>
+<dd>Wooのソース: <a href="https://github.com/fukamachi/woo">https://github.com/fukamachi/woo</a></dd>
+<dd>発表映像
+<dd>1: <a href="https://drive.google.com/file/d/0B_H0_8eqWuVAaG82TjJWbFVvR28/view?usp=sharing">https://drive.google.com/file/d/0B_H0_8eqWuVAaG82TjJWbFVvR28/view?usp=sharing</a></dd>
+<dd>2: <a href="https://drive.google.com/file/d/0B_H0_8eqWuVAbW5iclRrWHRRRTg/view?usp=sharing">https://drive.google.com/file/d/0B_H0_8eqWuVAbW5iclRrWHRRRTg/view?usp=sharing</a></dd>
+</dd>
+</p>
+</dd>
+
+<dt>egiさん: Egisonについて</dt>
+<dd>
+<p>
+発表者ご自身が研究・開発中のプログラミング言語<a href="http://www.egison.org/ja/">Egison</a>について紹介がありました。<a href="http://www.egison.org/ja/">Egison</a>は幅広いデータ構造に対しパターンマッチを記述できる言語で、そのパターンの記述能力は既存の言語を上回るものです。パターンマッチがプログラミング言語においてなぜ重要と考えられるか、といった言語の設計についてのご自身の考えや日本および世界での<a href="http://www.egison.org/ja/">Egison</a>の盛り上がりについても言及されていました。
+</p>
+<p>以下の公式ページは詳細な説明やチュートリアル、Egisonを簡単に試せるインタプリタなどを備えています。</p>
+<p>
+<dd>Egison公式ページ: <a href="http://www.egison.org/ja/">http://www.egison.org/ja/</a></dd>
+<dd>Egisonのソース: <a href="https://github.com/egison/egison">https://github.com/egison/egison</a></dd>
+<dd>発表映像
+<dd>1: <a href="https://drive.google.com/file/d/0B_H0_8eqWuVALUpDcUUtajd2cGM/view?usp=sharing">https://drive.google.com/file/d/0B_H0_8eqWuVALUpDcUUtajd2cGM/view?usp=sharing</a></dd>
+<dd>2: <a href="https://drive.google.com/file/d/0B_H0_8eqWuVARWwzZEN5alBYUnM/view?usp=sharing">https://drive.google.com/file/d/0B_H0_8eqWuVARWwzZEN5alBYUnM/view?usp=sharing</a></dd>
+</dd>
+</p>
+</dd>
+
+<dt>Takagiさん: 8-bit PIC マイコン用ネイティブコンパイラの作成</dt>
+<dd>
+<p>
+発表者がご自身で実装中のCommon Lisp製の8bit PICマイコン用のネイティブコンパイラ：<a href="https://github.com/takagi/pic">PIC</a>についてのお話がありました。PICマイコンの大まかな仕様や使い方に始まり、ホスト言語のベースとなったMinCamlの紹介、そしてネイティブコンパイラ<a href="https://github.com/takagi/pic">PIC</a>の説明とデモがありました。
+</p>
+時間が押していた関係で最後が端折り気味になってしまいましたが、次のCommon Lisp回であるLisp Meet Up &#x23;27にて続きをお話ししていただけました。
+<p>
+<dd>スライド: <a href="http://www.slideshare.net/masayukitakagi/2015-0225-45131616">http://www.slideshare.net/masayukitakagi/2015-0225-45131616</a></dd>
+<dd>PICのソース: <a href="https://github.com/takagi/pic">https://github.com/takagi/pic</a></dd>
+<dd>発表映像
+<dd>1: <a href="https://drive.google.com/file/d/0B_H0_8eqWuVAbGhuT2ZTcVpvWDQ/view?usp=sharing">https://drive.google.com/file/d/0B_H0_8eqWuVAbGhuT2ZTcVpvWDQ/view?usp=sharing</a></dd>
+<dd>2: <a href="https://drive.google.com/file/d/0B_H0_8eqWuVAT2dnVkVhYThVWjQ/view?usp=sharing">https://drive.google.com/file/d/0B_H0_8eqWuVAT2dnVkVhYThVWjQ/view?usp=sharing</a></dd>
+</dd>
+</p>
+</dd>
+</dl>
+
+<h3>懇親会</h3>
+
+本体終了後は、会場付近の「串茶屋」というお店で懇親会をしました。もっと変な人になる方法の話、NICEとNEATの話や<a href="http://clfreaks.org/">clfreaks</a>の話、MinCamlやEgisonの話などが話題に挙がっていました。
+
+<h3>今後のMeet Up</h3>
+
+Scheme回は参加者にSchemerがほとんどいらっしゃらないので、夏まで休止することになりました。
