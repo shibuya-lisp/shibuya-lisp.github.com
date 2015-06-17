@@ -1,0 +1,61 @@
+---
+comments: false
+date: 2015-06-17 14:30
+layout: post
+slug: meetup27
+title: Lisp Meet Up presented by Shibuya.lisp &#x23;27 が開催されました。
+categories:
+- Meet Up
+tag:
+- Meet Up
+---
+
+<p>
+4月27日(月)に第27回Lisp Meet UpがCommon Lispをテーマに開催されました。
+全19名の参加者のみなさま、お疲れさまでした。
+</p>
+
+<p>
+今回の会場「渋谷センタープレイス4F テックラウンジ」は、今までと雰囲気が違い、ソファーなどが置かれていて談話室といった雰囲気でした。
+</p>
+
+<p>
+イベントページ: <a href="https://atnd.org/events/64988">https://atnd.org/events/64988</a>
+</p>
+
+<h3>当日の活動内容</h3>
+
+主催の挨拶の後、すぐに発表に移りました。
+
+<p>
+<dl>
+<dt> Masayuki Takagiさん : (続) 8-bit PIC マイコン用ネイティブコンパイラの作成</dt>
+<dd>
+<p>
+第25回Lisp Meet Upでのお話の続きとして発表者自身で実装中の8-bit PICマイコン用ネイティブコンパイラ<a href="https://github.com/takagi/pic">PIC</a>の詳細についてお話いただきました。今回はコンパイラの処理の流れに始まり、各ステージについて詳細な説明がありました。例も豊富でわかりやすかったです。<br/>
+他に、おまけとしてGC用ハードウェアについての論文の紹介がありました。
+</p>
+</dd>
+<p>
+<dd>PICのソースコード: <a href="https://github.com/takagi/pic">https://github.com/takagi/pic</a></dd>
+<dd>発表スライド: <a href="http://www.slideshare.net/masayukitakagi/2015-0422">http://www.slideshare.net/masayukitakagi/2015-0422</a></dd>
+<dd>録画映像: <a href="https://drive.google.com/file/d/0B_H0_8eqWuVAci1kVFFadnkyYUE/view?usp=sharing">https://drive.google.com/file/d/0B_H0_8eqWuVAci1kVFFadnkyYUE/view?usp=sharing</a></dd>
+</dd>
+</p>
+
+<dt>chikuさん : readerの基礎</dt>
+<dd>
+<p>
+Common LispのReaderについて基礎的な事柄のお話でした。大雑把な挙動を説明した後、文字の属性ごとに詳細を解説し、ちょっとした応用や個人的に実現して欲しい性質などについて話していました。入門者に向けて、CLの面白い機能や機能の詳細を説明し、モチベーションの維持に役立ててもらえることを目的とした話でした。
+</dd>
+</p>
+<p>
+<dd>スライド: <a href="http://www.slideshare.net/samugari/before-lisps-just-part-of-the-past-reader-pub">http://www.slideshare.net/samugari/before-lisps-just-part-of-the-past-reader-pub</a></dd>
+<dd>録画映像: <a href="https://drive.google.com/file/d/0B_H0_8eqWuVAdm9hSVotdzJZblE/view?usp=sharing">https://drive.google.com/file/d/0B_H0_8eqWuVAdm9hSVotdzJZblE/view?usp=sharing</a></dd>
+</p>
+</dl>
+
+<h3>懇親会</h3>
+
+懇親会は、会場付近の「和来場娯」というお店で懇親会をしました。参加者は14名でした。
+発表内容についての質問や議論の他、4月なので新社会人の方が数人参加しており、会社でなにをやっているかとか研修の話などにも話題が及んでいました。
