@@ -1,0 +1,87 @@
+---
+comments: false
+date: 2015-06-17 15:00
+layout: post
+slug: meetup28
+title: Lisp Meet Up presented by Shibuya.lisp &#x23;28 が開催されました。
+categories:
+- Meet Up
+tag:
+- Meet Up
+---
+
+<p>
+5月27日(水)に第28回Lisp Meet Upが開催されました。
+全19名の参加者のみなさま、お疲れさまでした。
+</p>
+<p>
+会場は前回と同じ「渋谷センタープレイス4F テックラウンジ」でした。
+</p>
+
+<p>
+イベントページ: <a href="https://atnd.org/events/66264">https://atnd.org/events/66264</a>
+</p>
+
+<h3>当日の活動内容</h3>
+
+主催の挨拶の後、参加者の自己紹介をしてから、告知されていた発表に移りました。
+今回は4件の発表が登録されていました。
+
+<p>
+<dl>
+<dt>yuugoさん : 奴に鉄槌を</dt>
+<dd>
+<p>
+発表の1件目はyuugoさんから、「奴に鉄槌を」と題したお話でした。職場で電話応対に不慣れな人のために、抽象的な単語から自分たちの扱う商品を絞り込んで検索するためのプログラムをCommon Lispで作ってみた、というお話でした。
+</p>
+</dd>
+<p>
+<dd>録画映像 : <a href="https://drive.google.com/file/d/0B_H0_8eqWuVAbkRZajBFNFVlckk/view?usp=sharing">https://drive.google.com/file/d/0B_H0_8eqWuVAbkRZajBFNFVlckk/view?usp=sharing</a></dd>
+</p>
+
+<dt>一瀬昌史さん : <a href="https://github.com/plexus/chestnut">Chestnut</a>について</dt>
+<dd>
+<p>
+続いて一瀬さんから、Clojure/Omのためのアプリケーションテンプレートである<a href="https://github.com/plexus/chestnut">chestnut</a>の紹介がありました。<a href="https://github.com/plexus/chestnut">chestnut</a>の概要を軽く述べた後はデモに移り、デモが発表の中心でした。単に手軽にwebサーバが起動できるというだけではなく、ClojureScriptファイルの変更が即座にブラウザ側にも反映されたり、REPLをブラウザに接続するといった機能もデモを通して紹介されました。
+</p>
+</dd>
+<p>
+<dd>スライド : <a href="http://www.slideshare.net/izy00466/start-chestnut">http://www.slideshare.net/izy00466/start-chestnut</a></dd>
+<dd>録画映像 : <a href="https://drive.google.com/file/d/0B_H0_8eqWuVAN1JrOERnSXpvTlU/view?usp=sharing">https://drive.google.com/file/d/0B_H0_8eqWuVAN1JrOERnSXpvTlU/view?usp=sharing</a></dd>
+</p>
+
+<dt>snmstsさん: 詳解<a href="https://github.com/snmsts/roswell">roswell</a></dt>
+<dd>
+<p>
+3件目はsnmstsさんから、<a href="https://github.com/snmsts/roswell">Roswell</a>というソフトウェアの紹介でした。<a href="https://github.com/snmsts/roswell">Roswell</a>は佐野さんが作っているCommon Lisp処理系の管理を行なうソフトウェアで、処理系のインストールの自動化の他、コマンドライン引数の差異を吸収したり、実行可能ファイルを生成したりといった機能があります。
+</p>
+<p>
+Common Lispの使い方や、<a href="https://github.com/snmsts/roswell">Roswell</a>の解決しようとしている問題について丁寧に説明した後、<a href="https://github.com/snmsts/roswell">Roswell</a>を用いて実際に処理系をインストールしたり、バージョンの違う処理系で実行させたり、といった内容のデモが行われました。
+</p>
+</dd>
+<p>
+<dd>Roswellのソース : <a href="https://github.com/snmsts/roswell">https://github.com/snmsts/roswell</a></dd>
+<dd>
+録画映像 : <a href="https://drive.google.com/file/d/0B_H0_8eqWuVAT0RZMGNPRzFJY1U/view?usp=sharing">https://drive.google.com/file/d/0B_H0_8eqWuVAT0RZMGNPRzFJY1U/view?usp=sharing</a></dd>
+</p>
+
+<dt>tnoda\_さん : Rについて</dt>
+<dd>
+<p>
+最後はtnoda\_さんが実装中のClojureからRを使う<a href="https://github.com/tnoda/rashinban">Rashinban</a>というライブラリについてのお話でした。
+</p>
+<p>
+前半はRの簡単な説明と、Java以外の言語で書かれたプログラムとClojureを連携する場合に考えられる戦略、そしてRを利用するライブラリを作る場合に考えられるいくつかのアプローチについての説明でした。後半は、特にRとClojureの間のデータの通信に際して生じるディスパッチの問題をClojureのprotocolとmultimethod、そしてmetadataをうまく使って切り分けた方法について詳述していました。
+</p>
+</dd>
+<p>
+発表スライドはtnoda\_さんのブログで公開されています。<a href="https://github.com/tnoda/rashinban">Rashinban</a>のソースコードはGithubで公開されているようです。
+<dd>ブログ : <a href="http://tnoda-clojure.tumblr.com/post/120124360112/shibuya-lisp-28-r">http://tnoda-clojure.tumblr.com/post/120124360112/shibuya-lisp-28-r</a></dd>
+<dd>ソース : <a href="https://github.com/tnoda/rashinban">https://github.com/tnoda/rashinban</a></dd>
+</p>
+</dl>
+</dl>
+
+<h3>懇親会</h3>
+
+懇親会は、会場付近の「和来場娯」というお店で懇親会をしました。参加者は16名でした。
