@@ -25,7 +25,7 @@ tag:
 
 <p>
 <dl>
-</dt> athos0220さん : Clojureのチャットボットフレームワーク</dt>
+<dt> athos0220さん : Clojureのチャットボットフレームワーク</dt>
 <dd>
 <p>
 チャットボットフレームワークはWebサービス運用のための様々な要求をチャットコマンドに集約するChatOpsで主要な位置を占めるチャットボットのためのフレームワークです。発表では、athos0220さんご自身が実装中のチャットボットフレームワークである<a href="https://github.com/liquidz/jubot">parabola</a>の解説のほか、チャットボットフレームワークのアーキテクチャについての解説、<a href="https://hubot.github.com/">Hubot</a>や<a href="https://github.com/liquidz/jubot">jubot</a>といった他の実装でのアプローチについての言及もありました。
@@ -36,7 +36,7 @@ tag:
 <dd>発表映像: <a href="https://drive.google.com/open?id=0B_H0_8eqWuVAdGNJQmt4ZGdNVEk&authuser=0">https://drive.google.com/open?id=0B_H0_8eqWuVAdGNJQmt4ZGdNVEk&authuser=0</a></dd>
 </dd>
 </p>
-</dt>にだーさん : Typed Clojureの紹介</dt>
+<dt>にだーさん : Typed Clojureの紹介</dt>
 <dd>
 Clojureに漸進的片付けを導入したTyped Clojureについて、その歴史や現状、基本的な使い方、欠点などがデモを交えて解説されました。
 </dd>
@@ -46,7 +46,7 @@ Clojureに漸進的片付けを導入したTyped Clojureについて、その歴
 </dd>
 </p>
 
-</dt>haijuさん : <a href="https://sekao.net/nightcode/">Nightcode</a>の紹介</dt>
+<dt>haijuさん : <a href="https://sekao.net/nightcode/">Nightcode</a>の紹介</dt>
 <dd>
 <p>
 <a href="https://sekao.net/nightcode/">Nightcode</a>はClojureで書かれた初心者向けのClojure開発環境で、GameやWeb、あるいはデスクトップアプリなど、プロジェクトの性格ごとにテンプレートが利用できる点に大きな特徴があるとのことでした。利用者が少ないためか情報が極めて少なく、ヘルプファイルもあまり充実していないそうです。
