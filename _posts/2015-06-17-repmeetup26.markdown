@@ -1,0 +1,64 @@
+---
+comments: false
+date: 2015-06-17 14:00
+layout: post
+slug: meetup26
+title: Lisp Meet Up presented by Shibuya.lisp &#x23;26 が開催されました。
+categories:
+- Meet Up
+tag:
+- Meet Up
+---
+
+<p>
+3月24日(火)に第26回Lisp Meet UpがClojureをテーマに開催されました。
+全17名の参加者のみなさま、お疲れさまでした。
+</p>
+
+<p>
+イベントページ: <a href="https://atnd.org/events/63547">https://atnd.org/events/63547</a>
+</p>
+
+<h3>当日の活動内容</h3>
+
+通例通り、主催の挨拶と自己紹介の後、<b>athos0220</b>さんから「」と題した発表をはじめました。
+
+<p>
+<dl>
+</dt> athos0220さん : Clojureのチャットボットフレームワーク</dt>
+<dd>
+<p>
+チャットボットフレームワークはWebサービス運用のための様々な要求をチャットコマンドに集約するChatOpsで主要な位置を占めるチャットボットのためのフレームワークです。発表では、athos0220さんご自身が実装中のチャットボットフレームワークである<a href="https://github.com/liquidz/jubot">parabola</a>の解説のほか、チャットボットフレームワークのアーキテクチャについての解説、<a href="https://hubot.github.com/">Hubot</a>や<a href="https://github.com/liquidz/jubot">jubot</a>といった他の実装でのアプローチについての言及もありました。
+<a href="https://github.com/liquidz/jubot">parabola</a>では、core.asyncを用いて抽象化レイヤーの並行実行可能にしたり、スクリプトを関数として記述できるようにするなど、Clojureの特徴を活かした実装になっているとのことでした。
+</p>
+<p>
+<dd>parabolaのソース: <a href="https://github.com/liquidz/jubot">https://github.com/liquidz/jubot</a></dd>
+<dd>発表映像: <a href="https://drive.google.com/open?id=0B_H0_8eqWuVAdGNJQmt4ZGdNVEk&authuser=0">https://drive.google.com/open?id=0B_H0_8eqWuVAdGNJQmt4ZGdNVEk&authuser=0</a></dd>
+</dd>
+</p>
+</dt>にだーさん : Typed Clojureの紹介</dt>
+<dd>
+Clojureに漸進的片付けを導入したTyped Clojureについて、その歴史や現状、基本的な使い方、欠点などがデモを交えて解説されました。
+</dd>
+<p>
+<dd>
+録画映像: <a href="https://drive.google.com/open?id=0B_H0_8eqWuVAd3JlS3oybmM4VzA&authuser=0">https://drive.google.com/open?id=0B_H0_8eqWuVAd3JlS3oybmM4VzA&authuser=0</a>
+</dd>
+</p>
+
+</dt>haijuさん : <a href="https://sekao.net/nightcode/">Nightcode</a>の紹介</dt>
+<dd>
+<p>
+<a href="https://sekao.net/nightcode/">Nightcode</a>はClojureで書かれた初心者向けのClojure開発環境で、GameやWeb、あるいはデスクトップアプリなど、プロジェクトの性格ごとにテンプレートが利用できる点に大きな特徴があるとのことでした。利用者が少ないためか情報が極めて少なく、ヘルプファイルもあまり充実していないそうです。
+</p>
+</p>
+<dd>
+録画映像: <a
+href="https://drive.google.com/open?id=0B_H0_8eqWuVAbDdPbnJtTFBMLU0&authuser=0">https://drive.google.com/open?id=0B_H0_8eqWuVAbDdPbnJtTFBMLU0&authuser=0</a>
+</dd>
+</p>
+</dd>
+</dl>
+<h3>懇親会</h3>
+
+会場近くの「とら」というお店で懇親会をしました。懇親会では、Lispを学んだきっかけやScheme(r)の話の他、4月からの新生活や湯治の話が話題に上っていました。
