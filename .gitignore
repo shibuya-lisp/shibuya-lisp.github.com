@@ -1,10 +1,15 @@
 _site/*
-_theme_packages/*
+_site
+.sass-cache
+Gemfile.lock
+*.gem
+.jekyll-cache
+.jekyll-metadata
 
 Thumbs.db
 .DS_Store
 
 !.gitkeep
 
-.rbenv-version
-.rvmrc
+*~
+.#*
